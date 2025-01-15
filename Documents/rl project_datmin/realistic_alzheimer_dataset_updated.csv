@@ -1,0 +1,501 @@
+Age,Gender,Education Level,Job,Physical Activity,Diet Quality,Family History,BMI,Smoking,Alcohol Consumption,Sleep Duration (hours),Sleep Quality,Stress Level,Social Interaction Frequency (days/week),Cognitive Exercise,Hydration (glasses/day),Screen Time (hours/day),Daily Steps,Processed Food Frequency (times/week),Smoking Habit,Reading Habit,Pollution Exposure,Memory Difficulty New Information,Memory Difficulty Recent Events,Focus Loss Frequency,Repetitive Questions,Difficulty Following Instructions,Word Forgetting,Confusion Frequency,Alzheimer Risk
+69,Perempuan,Magister,Pekerja kantoran,Rendah,Buruk,Tidak,28.8,Ya,Tidak pernah,10.0,Buruk,Rendah,1,Kadang-kadang,7,4,8211,5,Tidak pernah,Sangat Jarang,Sedang,2,1,4,1,3,4,5,Direkomendasikan ke Dokter
+63,Perempuan,Tidak Sekolah,Pekerja kantoran,Sedang,Normal,Ya,26.1,Ya,Kadang,5.9,Buruk,Normal,5,Kadang-kadang,5,6,1000,7,Tidak pernah,Sering,Sedang,2,0,1,1,1,5,3,Direkomendasikan ke Dokter
+71,Laki,Sarjana,Pekerja Profesional,Sedang,Normal,Ya,27.5,Tidak,Tidak pernah,6.4,Normal,Rendah,5,Kadang-kadang,7,3,7411,7,Tidak pernah,Sangat Jarang,Tinggi,1,4,1,3,5,1,4,Direkomendasikan ke Dokter
+80,Perempuan,SMA,Pekerja kantoran,Sedang,Baik,Ya,40.0,Tidak,Kadang,6.9,Buruk,Rendah,4,Sangat Jarang,3,1,3126,4,Tidak pernah,Kadang-kadang,Sedang,1,1,5,1,3,1,1,Tidak Terdeteksi
+62,Perempuan,SMA,Pensiunan,Rendah,Buruk,Ya,18.5,Ya,Tidak pernah,7.6,Buruk,Tinggi,1,Kadang-kadang,6,8,2255,1,Kadang-kadang,Sangat Jarang,Tinggi,3,1,5,2,0,2,2,Direkomendasikan ke Dokter
+62,Laki,Sarjana,Pekerja kantoran,Tinggi,Normal,Ya,33.6,Tidak,Tidak pernah,7.4,Baik,Rendah,0,Sangat Jarang,6,3,7359,1,Tidak pernah,Sering,Rendah,5,1,1,5,0,5,1,Direkomendasikan ke Dokter
+80,Laki,SMA,Pensiunan,Rendah,Normal,Ya,23.6,Tidak,Sering,8.9,Baik,Normal,0,Sering,9,4,6463,7,Kadang-kadang,Sering,Rendah,3,0,4,1,1,3,2,Direkomendasikan ke Dokter
+72,Laki,Sarjana,Pensiunan,Tinggi,Buruk,Ya,26.4,Tidak,Tidak pernah,4.0,Normal,Normal,5,Kadang-kadang,4,6,7509,5,Sering,Kadang-kadang,Tinggi,2,5,4,0,3,1,1,Tidak Terdeteksi
+60,Laki,Sarjana,Kuli,Sedang,Buruk,Tidak,24.8,Tidak,Kadang,4.0,Normal,Tinggi,4,Sangat Jarang,3,2,6601,7,Tidak pernah,Kadang-kadang,Sedang,3,3,3,1,0,2,4,Direkomendasikan ke Dokter
+70,Laki,SMA,Pensiunan,Rendah,Normal,Ya,22.9,Ya,Kadang,6.3,Buruk,Normal,7,Kadang-kadang,4,1,9119,1,Sering,Sering,Tinggi,2,4,2,5,5,5,4,Direkomendasikan ke Dokter
+60,Laki,Tidak Sekolah,Kuli,Sedang,Normal,Tidak,22.2,Tidak,Tidak pernah,8.6,Normal,Rendah,3,Sering,3,4,6117,0,Tidak pernah,Kadang-kadang,Tinggi,0,4,5,2,4,2,3,Direkomendasikan ke Dokter
+60,Laki,SMA,Pensiunan,Rendah,Buruk,Ya,26.6,Tidak,Sering,4.7,Baik,Normal,6,Sering,8,1,4687,5,Tidak pernah,Kadang-kadang,Rendah,2,2,2,0,3,3,1,Tidak Terdeteksi
+67,Laki,Sarjana,Pekerja kantoran,Sedang,Normal,Tidak,18.5,Tidak,Tidak pernah,4.0,Buruk,Tinggi,7,Sangat Jarang,9,3,5685,4,Tidak pernah,Kadang-kadang,Sedang,2,0,5,3,1,1,1,Tidak Terdeteksi
+45,Perempuan,Doktor,Pensiunan,Rendah,Buruk,Ya,28.8,Tidak,Kadang,7.9,Buruk,Tinggi,0,Sangat Jarang,6,4,7486,6,Tidak pernah,Kadang-kadang,Rendah,3,5,3,3,3,1,3,Direkomendasikan ke Dokter
+47,Laki,Sarjana,Pensiunan,Rendah,Normal,Ya,22.9,Ya,Tidak pernah,7.4,Normal,Normal,0,Kadang-kadang,8,3,3441,5,Kadang-kadang,Sangat Jarang,Sedang,5,1,1,3,2,1,3,Direkomendasikan ke Dokter
+59,Perempuan,SMA,Pensiunan,Tinggi,Buruk,Ya,19.3,Tidak,Kadang,5.4,Normal,Normal,7,Sangat Jarang,6,1,3696,5,Tidak pernah,Sering,Sedang,0,3,2,0,2,0,4,Direkomendasikan ke Dokter
+54,Laki,Sarjana,Pekerja Profesional,Rendah,Baik,Ya,22.7,Ya,Tidak pernah,5.5,Buruk,Tinggi,5,Sering,5,7,4382,1,Tidak pernah,Kadang-kadang,Rendah,4,0,5,3,0,1,4,Direkomendasikan ke Dokter
+68,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,31.3,Tidak,Kadang,5.5,Normal,Rendah,5,Sangat Jarang,5,4,1000,4,Sering,Sangat Jarang,Sedang,4,0,2,1,2,4,5,Direkomendasikan ke Dokter
+55,Laki,Sarjana,Tidak bekerja,Rendah,Buruk,Tidak,22.3,Tidak,Kadang,7.2,Normal,Normal,4,Sangat Jarang,5,6,5276,5,Kadang-kadang,Sering,Sedang,5,5,1,0,1,0,1,Direkomendasikan ke Dokter
+50,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,26.8,Ya,Sering,6.1,Normal,Normal,5,Sangat Jarang,3,3,1227,1,Tidak pernah,Sangat Jarang,Rendah,4,3,0,0,0,5,4,Direkomendasikan ke Dokter
+79,Perempuan,Sarjana,Kuli,Sedang,Buruk,Tidak,21.3,Tidak,Sering,7.7,Normal,Rendah,2,Sangat Jarang,6,2,5106,7,Sering,Sangat Jarang,Tinggi,0,1,5,0,1,0,4,Direkomendasikan ke Dokter
+62,Perempuan,SMA,Pekerja Profesional,Sedang,Normal,Tidak,28.8,Ya,Kadang,4.0,Baik,Normal,6,Kadang-kadang,5,4,6730,2,Kadang-kadang,Kadang-kadang,Sedang,1,0,0,4,5,0,1,Tidak Terdeteksi
+65,Perempuan,Doktor,Pekerja kantoran,Rendah,Buruk,Ya,28.4,Tidak,Kadang,5.7,Normal,Rendah,7,Sangat Jarang,7,3,4046,4,Tidak pernah,Sering,Tinggi,0,4,3,2,1,0,3,Direkomendasikan ke Dokter
+50,Laki,SMA,Pensiunan,Rendah,Baik,Ya,34.2,Tidak,Tidak pernah,5.3,Baik,Normal,7,Sangat Jarang,6,1,8354,3,Tidak pernah,Sering,Rendah,3,4,4,4,2,2,1,Direkomendasikan ke Dokter
+59,Laki,Sarjana,Pekerja Profesional,Rendah,Buruk,Ya,24.1,Tidak,Tidak pernah,6.6,Normal,Tinggi,1,Sangat Jarang,5,6,2078,0,Tidak pernah,Sering,Rendah,2,3,2,4,5,4,0,Tidak Terdeteksi
+66,Perempuan,Magister,Pensiunan,Rendah,Buruk,Ya,28.3,Tidak,Tidak pernah,6.2,Normal,Rendah,0,Kadang-kadang,4,2,7382,3,Tidak pernah,Sering,Sedang,2,1,5,4,2,3,1,Tidak Terdeteksi
+53,Perempuan,SMA,Kuli,Sedang,Buruk,Ya,25.5,Tidak,Tidak pernah,8.2,Normal,Tinggi,7,Sangat Jarang,6,1,6350,6,Tidak pernah,Sangat Jarang,Rendah,3,3,2,2,1,1,0,Direkomendasikan ke Dokter
+68,Perempuan,Magister,Pensiunan,Tinggi,Buruk,Ya,31.5,Tidak,Tidak pernah,4.2,Baik,Rendah,2,Kadang-kadang,7,6,1567,7,Kadang-kadang,Sangat Jarang,Tinggi,3,0,3,4,2,0,1,Direkomendasikan ke Dokter
+58,Perempuan,Sarjana,Pensiunan,Tinggi,Buruk,Ya,21.4,Tidak,Kadang,7.1,Baik,Normal,7,Kadang-kadang,3,2,10000,4,Sering,Sering,Rendah,2,4,3,3,2,3,0,Tidak Terdeteksi
+62,Laki,Tidak Sekolah,Pekerja kantoran,Sedang,Normal,Ya,28.7,Tidak,Tidak pernah,7.8,Buruk,Rendah,3,Kadang-kadang,6,2,4872,5,Kadang-kadang,Sangat Jarang,Sedang,5,2,2,0,2,2,0,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Pekerja Profesional,Sedang,Normal,Tidak,24.0,Ya,Kadang,9.8,Baik,Tinggi,2,Sering,6,1,3245,1,Tidak pernah,Kadang-kadang,Sedang,1,3,5,0,3,3,1,Tidak Terdeteksi
+83,Laki,Sarjana,Pekerja Profesional,Sedang,Normal,Tidak,24.7,Tidak,Tidak pernah,6.3,Baik,Tinggi,4,Sering,4,7,2185,6,Kadang-kadang,Kadang-kadang,Rendah,1,2,1,1,5,0,5,Direkomendasikan ke Dokter
+64,Laki,Tidak Sekolah,Kuli,Rendah,Normal,Ya,25.5,Ya,Tidak pernah,7.5,Normal,Normal,3,Sering,4,1,4559,4,Kadang-kadang,Sangat Jarang,Rendah,1,2,1,5,5,5,4,Direkomendasikan ke Dokter
+54,Laki,SMA,Pekerja kantoran,Tinggi,Normal,Tidak,26.3,Tidak,Kadang,4.3,Buruk,Tinggi,3,Sangat Jarang,6,4,4745,0,Tidak pernah,Sering,Sedang,3,5,4,3,5,4,2,Direkomendasikan ke Dokter
+73,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,24.4,Ya,Kadang,4.0,Baik,Normal,7,Sangat Jarang,3,5,5205,4,Kadang-kadang,Kadang-kadang,Sedang,2,4,2,2,1,3,4,Direkomendasikan ke Dokter
+52,Laki,Sarjana,Kuli,Sedang,Normal,Ya,26.1,Ya,Kadang,8.3,Baik,Tinggi,5,Sangat Jarang,6,4,4404,6,Kadang-kadang,Kadang-kadang,Rendah,5,3,2,5,4,0,0,Direkomendasikan ke Dokter
+67,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Ya,32.9,Tidak,Kadang,7.0,Buruk,Tinggi,7,Sering,4,3,6266,1,Tidak pernah,Sering,Tinggi,2,2,5,0,1,0,1,Tidak Terdeteksi
+45,Perempuan,Magister,Tidak bekerja,Rendah,Normal,Ya,29.9,Tidak,Tidak pernah,8.8,Baik,Tinggi,2,Sering,8,1,4224,3,Kadang-kadang,Kadang-kadang,Rendah,2,0,2,4,5,1,1,Tidak Terdeteksi
+51,Laki,Doktor,Tidak bekerja,Rendah,Normal,Tidak,29.3,Tidak,Kadang,4.9,Buruk,Normal,4,Sering,10,2,1130,2,Kadang-kadang,Sangat Jarang,Sedang,5,5,5,1,0,5,1,Direkomendasikan ke Dokter
+66,Perempuan,Doktor,Kuli,Tinggi,Buruk,Tidak,22.7,Ya,Tidak pernah,7.8,Buruk,Rendah,0,Sangat Jarang,4,4,4701,3,Sering,Kadang-kadang,Sedang,0,1,2,1,2,1,1,Tidak Terdeteksi
+72,Laki,Sarjana,Pensiunan,Sedang,Normal,Ya,20.6,Tidak,Tidak pernah,9.8,Normal,Normal,6,Sering,7,2,1000,1,Tidak pernah,Sering,Rendah,5,5,3,0,2,5,5,Direkomendasikan ke Dokter
+66,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,29.8,Tidak,Kadang,7.6,Normal,Rendah,5,Sangat Jarang,4,4,5707,6,Tidak pernah,Sering,Tinggi,0,1,0,3,4,4,2,Tidak Terdeteksi
+63,Perempuan,Sarjana,Pensiunan,Tinggi,Normal,Ya,29.4,Tidak,Tidak pernah,7.4,Normal,Normal,2,Sangat Jarang,8,5,3041,1,Sering,Sering,Rendah,4,4,2,5,0,1,3,Direkomendasikan ke Dokter
+61,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Ya,32.4,Ya,Tidak pernah,7.0,Buruk,Normal,0,Sangat Jarang,3,5,5326,7,Tidak pernah,Sering,Rendah,0,3,0,1,3,4,0,Tidak Terdeteksi
+50,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Buruk,Ya,22.0,Tidak,Sering,4.6,Baik,Normal,2,Sangat Jarang,6,1,7628,0,Sering,Sangat Jarang,Rendah,1,3,1,0,1,2,2,Tidak Terdeteksi
+57,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Tidak,23.9,Ya,Sering,9.0,Buruk,Rendah,5,Kadang-kadang,4,8,3102,4,Tidak pernah,Sering,Sedang,1,1,4,3,3,2,4,Direkomendasikan ke Dokter
+60,Laki,SMA,Pekerja kantoran,Sedang,Normal,Tidak,18.5,Tidak,Tidak pernah,6.1,Buruk,Rendah,0,Sangat Jarang,5,5,7122,7,Kadang-kadang,Sering,Sedang,5,0,1,0,0,5,3,Direkomendasikan ke Dokter
+75,Perempuan,Sarjana,Kuli,Tinggi,Baik,Tidak,23.0,Tidak,Tidak pernah,7.8,Buruk,Normal,5,Sangat Jarang,3,3,4133,4,Tidak pernah,Sangat Jarang,Sedang,1,1,2,0,4,5,3,Direkomendasikan ke Dokter
+68,Laki,Sarjana,Pekerja Profesional,Rendah,Buruk,Tidak,30.0,Tidak,Tidak pernah,4.7,Normal,Tinggi,2,Kadang-kadang,7,6,8506,3,Tidak pernah,Sangat Jarang,Rendah,1,1,5,3,0,1,1,Tidak Terdeteksi
+47,Perempuan,SMA,Kuli,Tinggi,Buruk,Tidak,22.7,Tidak,Tidak pernah,5.2,Baik,Normal,3,Sering,4,8,4269,6,Tidak pernah,Sering,Rendah,4,3,1,3,4,2,2,Direkomendasikan ke Dokter
+68,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,28.2,Tidak,Sering,9.2,Normal,Normal,6,Kadang-kadang,7,1,3319,2,Kadang-kadang,Sering,Tinggi,1,2,3,3,3,3,4,Direkomendasikan ke Dokter
+61,Perempuan,Doktor,Pekerja Profesional,Tinggi,Buruk,Tidak,24.0,Tidak,Tidak pernah,6.5,Baik,Tinggi,1,Sangat Jarang,5,3,6374,2,Kadang-kadang,Sering,Rendah,3,0,0,0,3,3,1,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Kuli,Sedang,Normal,Ya,26.6,Tidak,Kadang,9.2,Buruk,Normal,6,Sering,5,1,4128,0,Tidak pernah,Sering,Tinggi,3,3,5,1,0,3,1,Direkomendasikan ke Dokter
+71,Perempuan,SMA,Tidak bekerja,Tinggi,Normal,Tidak,19.3,Tidak,Tidak pernah,6.9,Normal,Rendah,3,Sering,6,4,3317,1,Kadang-kadang,Kadang-kadang,Rendah,3,5,5,2,0,2,5,Direkomendasikan ke Dokter
+75,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,25.4,Tidak,Sering,4.2,Normal,Normal,5,Sangat Jarang,4,4,4044,0,Tidak pernah,Kadang-kadang,Tinggi,0,1,2,2,2,3,0,Direkomendasikan ke Dokter
+74,Laki,Sarjana,Pekerja kantoran,Tinggi,Buruk,Tidak,18.5,Tidak,Tidak pernah,8.3,Normal,Rendah,6,Kadang-kadang,6,3,4910,4,Tidak pernah,Kadang-kadang,Rendah,5,2,3,0,4,4,3,Direkomendasikan ke Dokter
+56,Laki,Sarjana,Tidak bekerja,Sedang,Buruk,Ya,24.1,Tidak,Kadang,6.1,Buruk,Tinggi,5,Sangat Jarang,9,2,7684,5,Tidak pernah,Sangat Jarang,Sedang,5,0,0,0,2,0,4,Direkomendasikan ke Dokter
+61,Perempuan,SMA,Pensiunan,Rendah,Buruk,Ya,18.5,Tidak,Tidak pernah,8.0,Normal,Rendah,5,Sangat Jarang,4,1,1131,5,Kadang-kadang,Sering,Rendah,2,4,3,1,1,5,3,Direkomendasikan ke Dokter
+68,Perempuan,Tidak Sekolah,Tidak bekerja,Tinggi,Normal,Ya,31.0,Tidak,Kadang,7.0,Normal,Normal,0,Kadang-kadang,8,4,5046,5,Tidak pernah,Kadang-kadang,Rendah,4,0,1,3,1,1,2,Direkomendasikan ke Dokter
+74,Perempuan,Sarjana,Pekerja Profesional,Rendah,Baik,Ya,28.9,Tidak,Tidak pernah,4.7,Normal,Rendah,4,Sering,8,6,6249,1,Tidak pernah,Kadang-kadang,Rendah,3,0,2,0,0,4,0,Direkomendasikan ke Dokter
+60,Laki,Sarjana,Pensiunan,Tinggi,Baik,Tidak,27.3,Ya,Tidak pernah,7.2,Normal,Rendah,5,Sangat Jarang,4,2,5386,0,Tidak pernah,Kadang-kadang,Rendah,3,1,5,4,3,3,1,Direkomendasikan ke Dokter
+63,Perempuan,SMA,Kuli,Rendah,Buruk,Tidak,32.6,Tidak,Sering,10.0,Buruk,Tinggi,6,Sering,3,4,7619,7,Kadang-kadang,Kadang-kadang,Rendah,1,1,5,3,1,0,0,Tidak Terdeteksi
+53,Perempuan,Doktor,Kuli,Sedang,Baik,Ya,20.3,Tidak,Sering,7.7,Normal,Rendah,6,Sering,6,1,4851,6,Kadang-kadang,Sangat Jarang,Sedang,3,4,1,0,1,1,1,Direkomendasikan ke Dokter
+53,Laki,SMA,Kuli,Sedang,Normal,Ya,33.7,Ya,Kadang,6.9,Buruk,Rendah,6,Sering,4,4,4630,3,Sering,Sangat Jarang,Sedang,1,4,5,4,2,4,0,Tidak Terdeteksi
+73,Laki,SMA,Pekerja kantoran,Rendah,Normal,Ya,29.7,Ya,Kadang,8.6,Baik,Normal,3,Sangat Jarang,9,3,6184,4,Kadang-kadang,Sangat Jarang,Sedang,1,4,4,5,2,1,1,Tidak Terdeteksi
+78,Perempuan,Magister,Kuli,Rendah,Normal,Ya,23.8,Tidak,Kadang,7.3,Normal,Rendah,1,Sering,6,2,5198,5,Tidak pernah,Sangat Jarang,Sedang,2,3,2,1,1,5,3,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Ya,30.7,Tidak,Tidak pernah,7.3,Buruk,Rendah,5,Sangat Jarang,4,2,4219,6,Tidak pernah,Sering,Sedang,0,3,1,4,0,2,3,Direkomendasikan ke Dokter
+75,Perempuan,Sarjana,Tidak bekerja,Rendah,Buruk,Tidak,19.5,Tidak,Tidak pernah,5.4,Baik,Tinggi,7,Kadang-kadang,3,3,6032,2,Sering,Sangat Jarang,Sedang,1,1,2,0,2,3,3,Direkomendasikan ke Dokter
+68,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Ya,20.9,Ya,Tidak pernah,7.4,Normal,Tinggi,5,Sangat Jarang,8,4,3694,7,Tidak pernah,Sangat Jarang,Sedang,1,1,0,2,1,4,3,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Pensiunan,Sedang,Buruk,Ya,22.0,Tidak,Kadang,8.6,Buruk,Tinggi,5,Sangat Jarang,4,1,3777,0,Kadang-kadang,Kadang-kadang,Sedang,5,4,2,0,3,4,0,Direkomendasikan ke Dokter
+68,Laki,Doktor,Pensiunan,Rendah,Buruk,Ya,22.4,Ya,Tidak pernah,5.7,Normal,Tinggi,7,Kadang-kadang,6,3,3944,4,Kadang-kadang,Kadang-kadang,Tinggi,2,3,2,2,2,0,1,Tidak Terdeteksi
+80,Laki,SMA,Pekerja Profesional,Rendah,Normal,Ya,19.7,Tidak,Tidak pernah,9.1,Buruk,Normal,0,Sangat Jarang,7,3,7706,4,Kadang-kadang,Sangat Jarang,Rendah,1,2,0,1,1,0,3,Direkomendasikan ke Dokter
+64,Laki,Magister,Pekerja kantoran,Sedang,Normal,Ya,31.1,Ya,Kadang,6.9,Baik,Rendah,5,Sangat Jarang,5,1,1000,2,Sering,Sering,Rendah,4,3,1,1,4,0,0,Direkomendasikan ke Dokter
+80,Perempuan,SMA,Pekerja Profesional,Rendah,Normal,Tidak,23.7,Ya,Kadang,5.7,Baik,Tinggi,3,Sangat Jarang,5,7,5791,7,Tidak pernah,Sering,Sedang,0,1,2,3,2,1,1,Tidak Terdeteksi
+40,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,26.8,Ya,Tidak pernah,8.5,Baik,Tinggi,2,Kadang-kadang,5,2,5068,2,Kadang-kadang,Sangat Jarang,Rendah,4,3,3,3,4,3,0,Direkomendasikan ke Dokter
+73,Perempuan,Tidak Sekolah,Pekerja kantoran,Tinggi,Baik,Ya,22.1,Tidak,Tidak pernah,6.6,Normal,Tinggi,4,Sangat Jarang,7,2,1638,2,Tidak pernah,Sangat Jarang,Tinggi,3,1,2,2,2,1,5,Direkomendasikan ke Dokter
+65,Laki,Sarjana,Kuli,Sedang,Baik,Ya,18.5,Ya,Tidak pernah,8.1,Normal,Normal,6,Sering,7,2,5619,5,Sering,Sering,Tinggi,0,4,1,2,2,3,3,Direkomendasikan ke Dokter
+62,Perempuan,SMA,Pensiunan,Sedang,Normal,Ya,26.4,Tidak,Tidak pernah,6.6,Normal,Rendah,5,Sangat Jarang,5,7,5951,7,Tidak pernah,Sering,Rendah,3,4,5,1,5,4,2,Direkomendasikan ke Dokter
+65,Laki,Magister,Pekerja kantoran,Tinggi,Baik,Ya,18.5,Tidak,Tidak pernah,6.9,Buruk,Tinggi,0,Sangat Jarang,6,5,6179,5,Kadang-kadang,Kadang-kadang,Rendah,5,4,0,4,5,1,0,Direkomendasikan ke Dokter
+45,Perempuan,SMA,Kuli,Rendah,Normal,Tidak,24.7,Tidak,Kadang,7.7,Normal,Tinggi,3,Sangat Jarang,5,2,1000,0,Kadang-kadang,Sangat Jarang,Sedang,1,2,5,2,4,1,3,Direkomendasikan ke Dokter
+62,Laki,Doktor,Pekerja kantoran,Rendah,Baik,Tidak,18.5,Tidak,Kadang,7.4,Normal,Tinggi,5,Sangat Jarang,3,6,7732,2,Kadang-kadang,Kadang-kadang,Sedang,2,2,1,2,0,1,4,Direkomendasikan ke Dokter
+68,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Ya,34.9,Tidak,Kadang,4.0,Buruk,Rendah,7,Sangat Jarang,6,4,3524,3,Sering,Kadang-kadang,Rendah,4,1,4,4,1,2,1,Direkomendasikan ke Dokter
+79,Laki,Magister,Pensiunan,Sedang,Buruk,Ya,29.6,Ya,Tidak pernah,5.3,Normal,Rendah,0,Sangat Jarang,9,4,6373,4,Kadang-kadang,Sangat Jarang,Sedang,3,0,5,3,0,5,5,Direkomendasikan ke Dokter
+59,Laki,Sarjana,Pekerja Profesional,Rendah,Buruk,Ya,25.5,Tidak,Kadang,8.4,Baik,Rendah,2,Sering,4,3,6482,7,Tidak pernah,Kadang-kadang,Sedang,1,5,2,3,0,3,3,Direkomendasikan ke Dokter
+56,Perempuan,Sarjana,Pekerja Profesional,Sedang,Buruk,Ya,31.3,Ya,Tidak pernah,6.8,Baik,Tinggi,1,Kadang-kadang,4,2,3246,2,Tidak pernah,Kadang-kadang,Rendah,4,2,2,2,5,3,4,Direkomendasikan ke Dokter
+59,Perempuan,Sarjana,Tidak bekerja,Tinggi,Buruk,Tidak,20.8,Ya,Kadang,6.2,Buruk,Rendah,5,Sangat Jarang,4,4,6320,7,Tidak pernah,Sangat Jarang,Rendah,4,1,0,3,1,1,0,Direkomendasikan ke Dokter
+74,Laki,Sarjana,Pekerja kantoran,Tinggi,Normal,Tidak,27.7,Tidak,Kadang,5.0,Buruk,Rendah,3,Sangat Jarang,7,2,4229,4,Tidak pernah,Sering,Sedang,5,3,2,3,5,2,0,Direkomendasikan ke Dokter
+68,Perempuan,Sarjana,Pekerja kantoran,Sedang,Normal,Ya,26.0,Tidak,Tidak pernah,5.4,Buruk,Tinggi,0,Sering,6,7,1000,1,Kadang-kadang,Sering,Rendah,5,4,3,5,5,1,4,Direkomendasikan ke Dokter
+59,Laki,SMA,Tidak bekerja,Rendah,Normal,Ya,26.3,Tidak,Tidak pernah,4.0,Baik,Rendah,7,Sangat Jarang,5,1,7335,6,Sering,Sangat Jarang,Tinggi,3,4,3,3,5,3,5,Direkomendasikan ke Dokter
+70,Perempuan,Tidak Sekolah,Kuli,Tinggi,Buruk,Ya,31.4,Tidak,Kadang,6.8,Buruk,Tinggi,0,Sangat Jarang,4,7,3449,1,Tidak pernah,Sering,Sedang,1,4,5,1,3,5,4,Direkomendasikan ke Dokter
+65,Perempuan,Magister,Pekerja Profesional,Sedang,Baik,Tidak,28.7,Tidak,Tidak pernah,6.1,Normal,Normal,5,Kadang-kadang,6,3,3291,2,Tidak pernah,Sangat Jarang,Sedang,2,1,1,0,0,5,1,Tidak Terdeteksi
+74,Perempuan,Sarjana,Kuli,Rendah,Normal,Tidak,26.4,Ya,Kadang,5.6,Buruk,Tinggi,0,Kadang-kadang,3,4,4193,4,Tidak pernah,Sering,Tinggi,3,4,0,2,0,4,0,Direkomendasikan ke Dokter
+57,Laki,Sarjana,Pekerja kantoran,Rendah,Buruk,Ya,18.5,Ya,Tidak pernah,6.9,Normal,Normal,1,Kadang-kadang,6,5,5544,6,Tidak pernah,Sangat Jarang,Tinggi,4,2,4,2,0,2,4,Direkomendasikan ke Dokter
+61,Perempuan,SMA,Kuli,Tinggi,Normal,Ya,20.2,Ya,Kadang,7.5,Normal,Tinggi,0,Sangat Jarang,7,2,4885,1,Kadang-kadang,Sangat Jarang,Rendah,4,3,5,1,3,5,2,Direkomendasikan ke Dokter
+61,Perempuan,SMA,Tidak bekerja,Sedang,Buruk,Tidak,24.4,Ya,Tidak pernah,10.0,Normal,Tinggi,6,Sangat Jarang,3,5,6096,2,Kadang-kadang,Kadang-kadang,Rendah,0,4,1,0,2,2,2,Tidak Terdeteksi
+50,Laki,SMA,Kuli,Tinggi,Buruk,Ya,25.5,Tidak,Tidak pernah,4.7,Buruk,Rendah,4,Kadang-kadang,3,1,2321,4,Kadang-kadang,Kadang-kadang,Sedang,1,1,0,0,4,1,4,Direkomendasikan ke Dokter
+67,Laki,Sarjana,Pensiunan,Tinggi,Baik,Ya,19.3,Tidak,Kadang,8.7,Normal,Rendah,6,Sangat Jarang,9,2,3515,2,Sering,Sering,Sedang,0,3,0,1,4,4,1,Tidak Terdeteksi
+67,Perempuan,SMA,Pensiunan,Sedang,Buruk,Ya,37.1,Ya,Tidak pernah,8.5,Buruk,Rendah,4,Kadang-kadang,4,2,4768,5,Kadang-kadang,Sangat Jarang,Rendah,5,4,5,4,3,3,0,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pensiunan,Sedang,Normal,Tidak,32.6,Tidak,Tidak pernah,5.8,Normal,Normal,0,Kadang-kadang,8,1,8795,4,Sering,Sangat Jarang,Tinggi,2,0,1,4,0,5,2,Tidak Terdeteksi
+62,Perempuan,SMA,Pekerja kantoran,Rendah,Baik,Ya,28.0,Tidak,Tidak pernah,7.3,Baik,Tinggi,7,Sangat Jarang,5,3,4772,1,Tidak pernah,Kadang-kadang,Rendah,3,4,1,0,4,5,4,Direkomendasikan ke Dokter
+50,Perempuan,Tidak Sekolah,Kuli,Rendah,Normal,Ya,25.4,Ya,Tidak pernah,6.3,Buruk,Normal,7,Sering,5,4,7170,2,Tidak pernah,Kadang-kadang,Rendah,4,5,2,4,3,0,4,Direkomendasikan ke Dokter
+60,Perempuan,SMA,Pekerja kantoran,Rendah,Buruk,Tidak,23.9,Ya,Tidak pernah,7.3,Baik,Normal,5,Sering,6,5,5077,7,Tidak pernah,Sangat Jarang,Rendah,1,2,4,4,5,3,3,Direkomendasikan ke Dokter
+61,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Ya,20.2,Ya,Tidak pernah,9.3,Normal,Rendah,7,Kadang-kadang,4,4,4032,1,Tidak pernah,Kadang-kadang,Sedang,4,3,3,4,1,5,4,Direkomendasikan ke Dokter
+56,Laki,Sarjana,Pensiunan,Sedang,Buruk,Ya,25.4,Ya,Sering,7.9,Buruk,Tinggi,4,Sangat Jarang,6,2,4506,2,Kadang-kadang,Sering,Sedang,5,2,2,0,4,5,1,Direkomendasikan ke Dokter
+63,Laki,SMA,Tidak bekerja,Tinggi,Normal,Ya,26.3,Ya,Tidak pernah,7.8,Normal,Tinggi,3,Sangat Jarang,5,4,4663,7,Kadang-kadang,Sering,Rendah,0,0,0,4,1,3,2,Tidak Terdeteksi
+69,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,18.8,Tidak,Kadang,6.4,Buruk,Rendah,4,Sangat Jarang,3,4,6207,7,Tidak pernah,Sering,Rendah,0,0,4,2,0,4,3,Direkomendasikan ke Dokter
+83,Laki,Tidak Sekolah,Kuli,Sedang,Buruk,Tidak,26.7,Ya,Tidak pernah,4.8,Normal,Normal,6,Sangat Jarang,6,5,7749,0,Kadang-kadang,Sangat Jarang,Rendah,3,5,4,5,4,2,2,Direkomendasikan ke Dokter
+66,Perempuan,Tidak Sekolah,Pekerja kantoran,Sedang,Baik,Ya,24.2,Tidak,Tidak pernah,6.7,Normal,Rendah,0,Sering,5,5,5719,7,Kadang-kadang,Sering,Sedang,1,2,1,0,3,3,2,Tidak Terdeteksi
+67,Perempuan,SMA,Pekerja Profesional,Sedang,Normal,Ya,18.5,Tidak,Sering,8.8,Buruk,Normal,5,Sangat Jarang,5,4,7374,1,Sering,Sangat Jarang,Rendah,5,3,4,1,2,2,1,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Ya,20.7,Tidak,Tidak pernah,4.7,Normal,Normal,2,Sangat Jarang,3,2,3070,1,Kadang-kadang,Kadang-kadang,Tinggi,1,0,5,4,4,4,4,Direkomendasikan ke Dokter
+45,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Tidak,22.9,Tidak,Sering,5.4,Baik,Rendah,5,Sangat Jarang,9,2,4170,3,Tidak pernah,Kadang-kadang,Rendah,3,0,4,3,4,4,1,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja kantoran,Sedang,Normal,Tidak,34.4,Ya,Tidak pernah,7.2,Baik,Normal,5,Kadang-kadang,7,2,3551,6,Sering,Sering,Tinggi,5,4,0,0,4,1,4,Direkomendasikan ke Dokter
+65,Laki,Sarjana,Pekerja kantoran,Rendah,Buruk,Ya,27.8,Tidak,Kadang,5.5,Normal,Normal,5,Sangat Jarang,7,3,5628,5,Tidak pernah,Sering,Rendah,5,5,5,1,4,0,3,Direkomendasikan ke Dokter
+89,Perempuan,Magister,Pekerja Profesional,Rendah,Buruk,Ya,18.5,Tidak,Kadang,5.8,Baik,Normal,3,Sangat Jarang,5,4,4282,1,Tidak pernah,Sering,Sedang,0,1,5,5,3,4,1,Direkomendasikan ke Dokter
+63,Laki,Sarjana,Pensiunan,Rendah,Baik,Tidak,27.4,Ya,Kadang,6.4,Normal,Normal,1,Sangat Jarang,3,5,6459,4,Sering,Sering,Rendah,0,0,2,2,3,4,1,Tidak Terdeteksi
+68,Laki,Tidak Sekolah,Pensiunan,Sedang,Normal,Ya,18.5,Ya,Kadang,5.0,Normal,Rendah,6,Sering,9,3,3137,6,Kadang-kadang,Sering,Rendah,0,3,4,1,2,2,5,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja Profesional,Tinggi,Normal,Tidak,30.4,Tidak,Kadang,5.5,Baik,Tinggi,0,Sangat Jarang,5,4,5086,7,Kadang-kadang,Sering,Tinggi,4,3,1,4,3,4,0,Direkomendasikan ke Dokter
+53,Laki,SMA,Pekerja kantoran,Sedang,Normal,Tidak,22.6,Tidak,Tidak pernah,8.1,Normal,Tinggi,1,Sering,4,4,6373,2,Sering,Kadang-kadang,Tinggi,2,4,2,3,3,3,1,Tidak Terdeteksi
+76,Laki,SMA,Pekerja Profesional,Sedang,Buruk,Tidak,24.5,Tidak,Tidak pernah,5.0,Normal,Normal,2,Sering,6,2,1000,0,Tidak pernah,Sangat Jarang,Sedang,0,3,1,4,0,1,5,Direkomendasikan ke Dokter
+72,Perempuan,Doktor,Pekerja kantoran,Sedang,Buruk,Ya,31.6,Tidak,Sering,4.6,Normal,Rendah,1,Sangat Jarang,8,2,9243,4,Tidak pernah,Sangat Jarang,Sedang,2,4,4,1,0,1,0,Tidak Terdeteksi
+72,Perempuan,SMA,Kuli,Sedang,Normal,Ya,18.6,Tidak,Tidak pernah,6.1,Baik,Tinggi,0,Kadang-kadang,5,1,4433,6,Tidak pernah,Sangat Jarang,Sedang,2,0,2,0,1,3,4,Direkomendasikan ke Dokter
+55,Perempuan,SMA,Pensiunan,Rendah,Buruk,Tidak,18.5,Ya,Tidak pernah,8.1,Baik,Tinggi,6,Sangat Jarang,8,2,1000,4,Kadang-kadang,Kadang-kadang,Tinggi,1,0,4,3,2,5,4,Direkomendasikan ke Dokter
+79,Perempuan,Sarjana,Tidak bekerja,Rendah,Buruk,Ya,22.1,Tidak,Kadang,6.7,Normal,Rendah,6,Sering,8,4,5316,4,Tidak pernah,Kadang-kadang,Rendah,3,0,0,3,0,4,4,Direkomendasikan ke Dokter
+50,Perempuan,Sarjana,Pensiunan,Rendah,Baik,Ya,30.2,Ya,Tidak pernah,6.3,Normal,Normal,0,Kadang-kadang,3,2,5066,4,Tidak pernah,Kadang-kadang,Sedang,4,0,2,1,2,0,5,Direkomendasikan ke Dokter
+70,Laki,SMA,Pekerja kantoran,Rendah,Baik,Tidak,18.5,Ya,Sering,7.1,Normal,Rendah,2,Sangat Jarang,4,3,4836,6,Sering,Sering,Sedang,2,1,1,5,2,4,5,Direkomendasikan ke Dokter
+86,Laki,Tidak Sekolah,Pekerja Profesional,Rendah,Normal,Tidak,18.5,Tidak,Kadang,4.4,Normal,Normal,0,Sangat Jarang,7,4,6982,0,Tidak pernah,Sering,Rendah,4,5,0,5,4,1,0,Direkomendasikan ke Dokter
+55,Laki,SMA,Pekerja Profesional,Rendah,Baik,Ya,22.7,Tidak,Kadang,7.7,Buruk,Rendah,2,Sangat Jarang,3,5,6494,7,Sering,Sangat Jarang,Tinggi,1,5,3,4,5,0,4,Direkomendasikan ke Dokter
+59,Perempuan,SMA,Pensiunan,Rendah,Buruk,Ya,27.8,Tidak,Kadang,7.6,Normal,Normal,2,Sering,5,1,5595,3,Tidak pernah,Sangat Jarang,Rendah,0,1,1,1,5,5,2,Tidak Terdeteksi
+65,Perempuan,Tidak Sekolah,Pekerja Profesional,Tinggi,Baik,Ya,31.0,Tidak,Tidak pernah,6.4,Normal,Normal,0,Sangat Jarang,3,5,5900,5,Tidak pernah,Kadang-kadang,Rendah,5,0,4,3,5,2,1,Direkomendasikan ke Dokter
+59,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,22.7,Tidak,Tidak pernah,8.5,Normal,Normal,4,Kadang-kadang,5,6,4791,7,Kadang-kadang,Sangat Jarang,Sedang,2,3,1,1,2,2,5,Direkomendasikan ke Dokter
+49,Laki,Tidak Sekolah,Tidak bekerja,Rendah,Baik,Tidak,22.9,Ya,Kadang,5.3,Buruk,Normal,6,Sangat Jarang,5,1,8550,1,Tidak pernah,Sering,Sedang,3,4,3,3,4,4,5,Direkomendasikan ke Dokter
+65,Perempuan,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Ya,30.8,Ya,Tidak pernah,8.7,Buruk,Normal,2,Sering,5,2,2041,6,Kadang-kadang,Kadang-kadang,Rendah,5,5,1,4,1,4,5,Direkomendasikan ke Dokter
+54,Laki,SMA,Kuli,Sedang,Normal,Ya,18.5,Ya,Kadang,7.2,Baik,Normal,0,Sangat Jarang,4,6,5279,4,Kadang-kadang,Kadang-kadang,Rendah,1,2,0,0,1,0,0,Tidak Terdeteksi
+69,Perempuan,SMA,Pekerja Profesional,Rendah,Baik,Tidak,23.1,Tidak,Sering,6.5,Normal,Rendah,7,Kadang-kadang,3,3,5130,7,Tidak pernah,Sering,Tinggi,4,4,5,0,5,0,4,Direkomendasikan ke Dokter
+55,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,26.0,Tidak,Kadang,7.0,Buruk,Rendah,4,Sangat Jarang,10,1,6626,1,Tidak pernah,Sering,Rendah,0,2,1,1,1,5,2,Tidak Terdeteksi
+80,Perempuan,Sarjana,Pekerja Profesional,Sedang,Buruk,Ya,27.2,Tidak,Tidak pernah,6.8,Normal,Tinggi,6,Kadang-kadang,9,1,3312,6,Kadang-kadang,Sangat Jarang,Sedang,4,2,2,3,4,4,1,Direkomendasikan ke Dokter
+57,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Tidak,22.5,Tidak,Sering,8.8,Normal,Rendah,2,Sangat Jarang,3,3,1512,1,Sering,Sering,Sedang,3,0,3,0,5,1,1,Direkomendasikan ke Dokter
+61,Perempuan,SMA,Tidak bekerja,Rendah,Normal,Ya,25.2,Tidak,Kadang,5.4,Buruk,Tinggi,6,Sangat Jarang,9,1,5313,4,Kadang-kadang,Kadang-kadang,Sedang,2,2,1,3,4,2,4,Direkomendasikan ke Dokter
+73,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,18.5,Ya,Kadang,5.9,Normal,Tinggi,4,Sangat Jarang,5,3,5562,3,Sering,Sangat Jarang,Tinggi,3,0,3,4,1,5,2,Direkomendasikan ke Dokter
+52,Perempuan,SMA,Tidak bekerja,Rendah,Normal,Ya,21.7,Ya,Tidak pernah,8.6,Normal,Rendah,6,Kadang-kadang,6,4,7979,6,Tidak pernah,Sangat Jarang,Sedang,4,1,5,1,5,0,0,Direkomendasikan ke Dokter
+67,Perempuan,Sarjana,Tidak bekerja,Rendah,Baik,Ya,27.3,Tidak,Sering,6.1,Normal,Normal,3,Sangat Jarang,5,6,2459,1,Tidak pernah,Kadang-kadang,Sedang,4,3,0,3,4,1,5,Direkomendasikan ke Dokter
+78,Perempuan,Sarjana,Tidak bekerja,Rendah,Buruk,Tidak,20.1,Tidak,Kadang,8.4,Normal,Normal,5,Kadang-kadang,4,3,7309,2,Tidak pernah,Sangat Jarang,Sedang,5,2,2,1,3,4,5,Direkomendasikan ke Dokter
+48,Perempuan,Tidak Sekolah,Pensiunan,Tinggi,Normal,Ya,25.3,Tidak,Kadang,9.5,Normal,Tinggi,3,Sangat Jarang,7,6,9734,1,Sering,Sangat Jarang,Sedang,3,3,4,3,3,3,4,Direkomendasikan ke Dokter
+66,Laki,Magister,Pekerja Profesional,Sedang,Baik,Tidak,27.2,Ya,Kadang,6.4,Baik,Tinggi,4,Sering,6,6,4244,5,Tidak pernah,Kadang-kadang,Sedang,3,0,1,5,4,0,1,Direkomendasikan ke Dokter
+67,Perempuan,Tidak Sekolah,Pekerja kantoran,Sedang,Baik,Ya,23.3,Tidak,Tidak pernah,8.0,Normal,Tinggi,2,Sering,5,6,2418,4,Sering,Sering,Tinggi,3,2,0,5,4,5,5,Direkomendasikan ke Dokter
+72,Perempuan,SMA,Kuli,Rendah,Baik,Ya,25.9,Tidak,Kadang,5.3,Buruk,Rendah,0,Kadang-kadang,3,4,4186,0,Tidak pernah,Sangat Jarang,Rendah,0,4,3,3,0,3,1,Tidak Terdeteksi
+52,Laki,Sarjana,Pekerja kantoran,Tinggi,Normal,Ya,20.2,Ya,Kadang,8.1,Buruk,Normal,1,Sangat Jarang,4,1,5028,1,Tidak pernah,Sangat Jarang,Rendah,4,1,5,4,0,1,1,Direkomendasikan ke Dokter
+51,Perempuan,Magister,Pekerja Profesional,Rendah,Baik,Ya,24.0,Tidak,Tidak pernah,7.3,Normal,Normal,0,Sangat Jarang,3,4,6127,3,Tidak pernah,Sering,Rendah,1,5,3,1,2,2,4,Direkomendasikan ke Dokter
+70,Perempuan,Sarjana,Pekerja Profesional,Rendah,Normal,Ya,28.1,Tidak,Kadang,7.7,Normal,Normal,6,Sangat Jarang,6,6,3817,2,Sering,Sangat Jarang,Rendah,0,1,5,2,5,1,3,Direkomendasikan ke Dokter
+67,Perempuan,Sarjana,Kuli,Sedang,Buruk,Ya,25.8,Tidak,Sering,6.0,Buruk,Rendah,1,Sangat Jarang,3,3,8110,2,Kadang-kadang,Sering,Rendah,0,2,5,3,2,2,3,Direkomendasikan ke Dokter
+67,Laki,SMA,Kuli,Rendah,Normal,Ya,22.1,Ya,Kadang,4.5,Normal,Rendah,1,Kadang-kadang,5,7,2770,0,Kadang-kadang,Kadang-kadang,Tinggi,0,1,0,3,2,1,3,Direkomendasikan ke Dokter
+68,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Ya,26.1,Tidak,Kadang,7.8,Buruk,Tinggi,6,Kadang-kadang,8,5,1521,7,Tidak pernah,Sangat Jarang,Sedang,5,5,1,5,1,0,2,Direkomendasikan ke Dokter
+58,Perempuan,Tidak Sekolah,Pekerja Profesional,Sedang,Buruk,Tidak,28.6,Tidak,Kadang,4.0,Normal,Normal,6,Sering,8,5,7213,5,Sering,Sangat Jarang,Sedang,1,4,4,0,3,0,4,Direkomendasikan ke Dokter
+67,Perempuan,Magister,Pekerja Profesional,Tinggi,Normal,Tidak,18.5,Tidak,Kadang,6.5,Normal,Normal,2,Sangat Jarang,5,6,1000,0,Sering,Sangat Jarang,Sedang,3,3,1,5,1,5,1,Direkomendasikan ke Dokter
+67,Laki,SMA,Kuli,Rendah,Normal,Tidak,30.8,Tidak,Tidak pernah,8.4,Normal,Normal,4,Kadang-kadang,5,4,4591,5,Sering,Sangat Jarang,Tinggi,5,4,2,1,5,3,5,Direkomendasikan ke Dokter
+57,Perempuan,Sarjana,Tidak bekerja,Sedang,Buruk,Ya,23.3,Tidak,Tidak pernah,7.3,Normal,Tinggi,7,Sangat Jarang,9,1,10000,1,Tidak pernah,Sangat Jarang,Sedang,4,1,1,5,4,1,2,Direkomendasikan ke Dokter
+83,Perempuan,SMA,Tidak bekerja,Tinggi,Normal,Ya,27.1,Tidak,Kadang,9.9,Buruk,Tinggi,0,Kadang-kadang,7,3,4975,4,Kadang-kadang,Kadang-kadang,Tinggi,2,5,5,2,0,1,3,Direkomendasikan ke Dokter
+69,Perempuan,Sarjana,Pensiunan,Rendah,Normal,Tidak,31.0,Tidak,Kadang,8.5,Normal,Rendah,4,Sangat Jarang,5,6,2758,3,Tidak pernah,Sangat Jarang,Rendah,5,3,5,4,5,3,0,Direkomendasikan ke Dokter
+53,Perempuan,SMA,Kuli,Rendah,Normal,Ya,18.5,Tidak,Kadang,6.0,Buruk,Rendah,3,Sangat Jarang,3,2,4885,2,Tidak pernah,Kadang-kadang,Tinggi,2,5,2,2,4,4,2,Tidak Terdeteksi
+71,Laki,Sarjana,Pekerja Profesional,Rendah,Buruk,Ya,21.5,Ya,Kadang,7.0,Baik,Rendah,2,Sangat Jarang,6,3,4898,0,Tidak pernah,Kadang-kadang,Sedang,4,4,3,4,5,5,2,Direkomendasikan ke Dokter
+55,Laki,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Tidak,23.6,Tidak,Tidak pernah,6.9,Buruk,Tinggi,2,Kadang-kadang,7,1,5321,3,Sering,Sangat Jarang,Rendah,1,0,5,2,4,1,4,Direkomendasikan ke Dokter
+72,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Buruk,Tidak,21.1,Ya,Kadang,4.6,Baik,Normal,7,Sering,4,7,6324,5,Kadang-kadang,Sangat Jarang,Sedang,2,0,2,5,0,5,5,Direkomendasikan ke Dokter
+76,Perempuan,SMA,Kuli,Tinggi,Baik,Ya,33.7,Tidak,Tidak pernah,5.6,Normal,Normal,3,Sangat Jarang,6,7,2921,4,Sering,Sangat Jarang,Sedang,0,3,5,2,4,1,2,Tidak Terdeteksi
+56,Laki,SMA,Kuli,Sedang,Buruk,Ya,20.7,Tidak,Kadang,6.2,Normal,Normal,0,Sangat Jarang,5,2,8375,2,Sering,Sangat Jarang,Rendah,5,3,4,5,2,1,5,Direkomendasikan ke Dokter
+74,Laki,Magister,Pekerja Profesional,Sedang,Normal,Tidak,22.2,Tidak,Kadang,4.0,Normal,Normal,5,Sangat Jarang,5,4,5490,2,Kadang-kadang,Sering,Sedang,2,3,5,5,5,4,4,Direkomendasikan ke Dokter
+69,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,26.0,Tidak,Tidak pernah,7.1,Baik,Tinggi,3,Kadang-kadang,3,2,6453,5,Tidak pernah,Sangat Jarang,Rendah,4,0,0,1,0,0,0,Direkomendasikan ke Dokter
+73,Perempuan,Doktor,Pekerja Profesional,Tinggi,Buruk,Tidak,19.0,Tidak,Tidak pernah,6.6,Buruk,Normal,0,Sangat Jarang,5,5,3743,4,Sering,Sering,Rendah,0,4,2,5,4,5,1,Tidak Terdeteksi
+83,Perempuan,SMA,Pekerja kantoran,Tinggi,Baik,Tidak,23.0,Ya,Kadang,4.5,Buruk,Rendah,1,Kadang-kadang,7,5,7572,2,Tidak pernah,Kadang-kadang,Tinggi,2,3,1,0,2,3,1,Tidak Terdeteksi
+62,Laki,SMA,Tidak bekerja,Tinggi,Normal,Tidak,26.6,Tidak,Kadang,7.6,Normal,Rendah,6,Sering,4,5,4485,4,Kadang-kadang,Kadang-kadang,Sedang,4,0,2,2,2,5,3,Direkomendasikan ke Dokter
+57,Laki,Sarjana,Pensiunan,Rendah,Buruk,Ya,23.3,Tidak,Tidak pernah,8.1,Buruk,Normal,2,Sering,6,4,5555,2,Tidak pernah,Kadang-kadang,Tinggi,1,3,3,3,3,4,3,Direkomendasikan ke Dokter
+56,Perempuan,Sarjana,Pekerja Profesional,Sedang,Normal,Ya,24.5,Ya,Sering,7.3,Buruk,Tinggi,0,Sangat Jarang,4,9,3133,1,Tidak pernah,Sering,Sedang,4,3,5,3,2,2,0,Direkomendasikan ke Dokter
+56,Laki,SMA,Kuli,Rendah,Buruk,Tidak,22.4,Ya,Kadang,6.5,Baik,Normal,4,Sering,6,1,3006,5,Tidak pernah,Sangat Jarang,Rendah,1,5,2,3,1,2,1,Tidak Terdeteksi
+64,Laki,SMA,Pensiunan,Rendah,Normal,Tidak,18.5,Tidak,Sering,7.9,Baik,Tinggi,7,Kadang-kadang,5,1,6376,4,Tidak pernah,Sangat Jarang,Sedang,0,3,4,0,0,4,3,Direkomendasikan ke Dokter
+68,Laki,Sarjana,Pekerja Profesional,Rendah,Normal,Tidak,26.6,Tidak,Kadang,8.0,Normal,Tinggi,6,Sangat Jarang,4,3,4112,3,Tidak pernah,Kadang-kadang,Sedang,4,0,2,5,0,4,5,Direkomendasikan ke Dokter
+67,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Ya,33.8,Tidak,Kadang,7.5,Baik,Rendah,4,Kadang-kadang,8,1,3292,7,Tidak pernah,Sangat Jarang,Tinggi,3,4,4,2,0,0,2,Direkomendasikan ke Dokter
+73,Laki,Doktor,Pekerja Profesional,Sedang,Buruk,Ya,25.1,Tidak,Kadang,5.8,Normal,Rendah,6,Sering,7,1,3713,1,Sering,Kadang-kadang,Rendah,5,0,5,4,4,5,4,Direkomendasikan ke Dokter
+65,Perempuan,Doktor,Pensiunan,Rendah,Buruk,Tidak,26.1,Ya,Kadang,7.4,Buruk,Rendah,2,Sangat Jarang,4,1,6397,6,Tidak pernah,Kadang-kadang,Tinggi,3,0,1,4,5,5,3,Direkomendasikan ke Dokter
+79,Laki,Sarjana,Pekerja Profesional,Rendah,Baik,Tidak,28.5,Tidak,Kadang,8.8,Normal,Tinggi,3,Sangat Jarang,6,2,3741,3,Kadang-kadang,Kadang-kadang,Tinggi,3,3,5,1,4,2,0,Direkomendasikan ke Dokter
+62,Perempuan,SMA,Kuli,Rendah,Baik,Tidak,18.7,Tidak,Tidak pernah,6.1,Normal,Rendah,5,Sangat Jarang,7,2,4764,5,Kadang-kadang,Kadang-kadang,Sedang,3,5,3,0,1,3,1,Direkomendasikan ke Dokter
+90,Laki,Sarjana,Pekerja kantoran,Rendah,Buruk,Tidak,33.5,Tidak,Kadang,10.0,Baik,Normal,3,Kadang-kadang,7,5,5030,2,Kadang-kadang,Kadang-kadang,Tinggi,5,2,0,2,5,5,0,Direkomendasikan ke Dokter
+71,Perempuan,Tidak Sekolah,Pensiunan,Rendah,Normal,Ya,26.0,Tidak,Tidak pernah,6.2,Buruk,Normal,0,Sangat Jarang,3,2,1165,6,Kadang-kadang,Sering,Rendah,3,2,1,5,2,1,4,Direkomendasikan ke Dokter
+56,Perempuan,Tidak Sekolah,Kuli,Rendah,Buruk,Tidak,33.2,Tidak,Tidak pernah,7.0,Normal,Tinggi,7,Sering,8,3,2057,3,Kadang-kadang,Sering,Tinggi,1,2,1,3,4,1,4,Direkomendasikan ke Dokter
+54,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,21.3,Tidak,Tidak pernah,6.0,Buruk,Rendah,3,Kadang-kadang,4,5,5672,1,Kadang-kadang,Kadang-kadang,Sedang,4,0,0,0,5,0,0,Direkomendasikan ke Dokter
+69,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,34.1,Tidak,Tidak pernah,7.3,Buruk,Normal,2,Kadang-kadang,5,2,3525,6,Kadang-kadang,Kadang-kadang,Rendah,0,3,2,0,2,0,3,Direkomendasikan ke Dokter
+62,Laki,Magister,Pekerja kantoran,Rendah,Baik,Tidak,28.9,Ya,Sering,4.4,Buruk,Normal,7,Sangat Jarang,10,3,7113,6,Tidak pernah,Sering,Tinggi,3,2,5,2,5,2,3,Direkomendasikan ke Dokter
+72,Perempuan,Sarjana,Pekerja Profesional,Rendah,Baik,Ya,27.8,Tidak,Tidak pernah,6.2,Baik,Normal,0,Kadang-kadang,6,4,6933,4,Kadang-kadang,Kadang-kadang,Sedang,3,1,2,5,2,3,1,Direkomendasikan ke Dokter
+69,Laki,Sarjana,Pensiunan,Tinggi,Normal,Ya,26.2,Tidak,Kadang,5.4,Baik,Tinggi,1,Sangat Jarang,5,1,6438,0,Tidak pernah,Kadang-kadang,Sedang,0,1,2,1,5,3,5,Direkomendasikan ke Dokter
+64,Laki,SMA,Kuli,Sedang,Buruk,Tidak,23.8,Tidak,Kadang,7.2,Normal,Rendah,3,Sangat Jarang,3,1,8639,3,Kadang-kadang,Sering,Sedang,0,1,5,5,4,4,1,Tidak Terdeteksi
+56,Laki,SMA,Kuli,Sedang,Normal,Ya,31.0,Ya,Kadang,8.5,Normal,Tinggi,3,Kadang-kadang,8,4,4833,0,Tidak pernah,Kadang-kadang,Rendah,3,4,3,1,4,0,2,Direkomendasikan ke Dokter
+49,Perempuan,SMA,Kuli,Rendah,Buruk,Ya,25.7,Tidak,Tidak pernah,8.0,Normal,Normal,5,Sangat Jarang,3,4,6297,5,Tidak pernah,Sangat Jarang,Sedang,1,3,1,1,1,5,5,Direkomendasikan ke Dokter
+60,Perempuan,Doktor,Pensiunan,Sedang,Normal,Ya,18.5,Ya,Kadang,4.0,Buruk,Normal,0,Kadang-kadang,3,8,3831,3,Tidak pernah,Sering,Tinggi,0,0,4,3,3,1,2,Tidak Terdeteksi
+73,Perempuan,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Ya,19.4,Tidak,Kadang,10.0,Buruk,Normal,4,Sangat Jarang,5,4,9904,3,Tidak pernah,Sangat Jarang,Rendah,4,0,0,3,0,5,1,Direkomendasikan ke Dokter
+67,Laki,Magister,Kuli,Sedang,Normal,Ya,24.1,Tidak,Kadang,7.4,Normal,Normal,3,Sangat Jarang,8,5,8967,4,Kadang-kadang,Sering,Rendah,4,3,1,2,4,1,5,Direkomendasikan ke Dokter
+52,Perempuan,SMA,Pensiunan,Tinggi,Buruk,Ya,26.5,Tidak,Kadang,5.8,Normal,Rendah,2,Sangat Jarang,7,3,5023,2,Tidak pernah,Sering,Rendah,1,5,2,5,4,2,5,Direkomendasikan ke Dokter
+66,Laki,SMA,Pensiunan,Sedang,Buruk,Tidak,24.7,Ya,Sering,7.2,Normal,Normal,3,Sering,5,4,5773,1,Tidak pernah,Sering,Sedang,5,5,0,1,2,1,2,Direkomendasikan ke Dokter
+68,Perempuan,Sarjana,Pensiunan,Tinggi,Baik,Ya,31.1,Tidak,Kadang,7.3,Buruk,Normal,5,Kadang-kadang,6,7,7718,1,Tidak pernah,Sangat Jarang,Sedang,2,4,4,2,3,5,0,Tidak Terdeteksi
+56,Laki,SMA,Pensiunan,Sedang,Buruk,Ya,18.5,Tidak,Tidak pernah,6.0,Buruk,Normal,1,Kadang-kadang,4,1,4705,1,Tidak pernah,Kadang-kadang,Sedang,1,3,1,1,4,5,3,Direkomendasikan ke Dokter
+66,Laki,Magister,Kuli,Rendah,Normal,Ya,25.7,Tidak,Kadang,7.3,Buruk,Normal,5,Sangat Jarang,6,4,3686,7,Sering,Kadang-kadang,Tinggi,3,5,1,0,5,3,5,Direkomendasikan ke Dokter
+65,Laki,Magister,Pekerja Profesional,Tinggi,Buruk,Tidak,18.5,Tidak,Tidak pernah,6.1,Normal,Tinggi,3,Sangat Jarang,6,8,6747,5,Tidak pernah,Sangat Jarang,Sedang,2,4,3,4,3,3,5,Direkomendasikan ke Dokter
+53,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Ya,28.8,Tidak,Kadang,6.4,Baik,Normal,7,Sering,7,4,5156,6,Kadang-kadang,Sangat Jarang,Rendah,3,2,1,4,0,0,2,Direkomendasikan ke Dokter
+68,Perempuan,SMA,Pensiunan,Sedang,Buruk,Tidak,24.5,Tidak,Tidak pernah,6.0,Normal,Rendah,4,Sangat Jarang,7,7,5365,2,Tidak pernah,Kadang-kadang,Tinggi,4,2,1,1,5,5,5,Direkomendasikan ke Dokter
+70,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,27.1,Ya,Tidak pernah,4.9,Baik,Normal,6,Sangat Jarang,6,2,3331,0,Kadang-kadang,Kadang-kadang,Sedang,0,4,4,2,2,2,2,Tidak Terdeteksi
+75,Perempuan,Magister,Pekerja Profesional,Rendah,Baik,Tidak,20.7,Ya,Kadang,7.2,Normal,Tinggi,3,Kadang-kadang,5,3,1564,1,Tidak pernah,Sangat Jarang,Sedang,3,3,4,3,1,1,0,Direkomendasikan ke Dokter
+75,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,31.4,Tidak,Kadang,7.9,Normal,Tinggi,0,Sangat Jarang,7,4,5472,7,Kadang-kadang,Kadang-kadang,Sedang,4,2,0,5,5,0,5,Direkomendasikan ke Dokter
+51,Perempuan,Sarjana,Kuli,Rendah,Baik,Tidak,30.2,Tidak,Tidak pernah,7.8,Buruk,Normal,3,Sering,5,1,6809,0,Kadang-kadang,Sering,Tinggi,1,3,2,1,0,4,4,Direkomendasikan ke Dokter
+55,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,27.9,Tidak,Kadang,8.2,Baik,Tinggi,4,Kadang-kadang,3,1,4548,2,Tidak pernah,Sering,Sedang,3,5,4,1,5,4,1,Direkomendasikan ke Dokter
+70,Laki,Sarjana,Pensiunan,Sedang,Normal,Tidak,24.4,Ya,Kadang,7.5,Normal,Rendah,0,Sangat Jarang,5,1,7872,5,Tidak pernah,Sering,Rendah,4,2,0,5,3,1,0,Direkomendasikan ke Dokter
+70,Perempuan,SMA,Pensiunan,Rendah,Normal,Tidak,27.9,Ya,Tidak pernah,6.2,Buruk,Normal,2,Sangat Jarang,6,5,3592,2,Tidak pernah,Kadang-kadang,Sedang,0,5,1,3,3,1,4,Direkomendasikan ke Dokter
+70,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Ya,21.5,Tidak,Kadang,8.3,Normal,Tinggi,7,Sangat Jarang,7,5,2890,4,Kadang-kadang,Sering,Rendah,3,3,0,1,0,1,0,Direkomendasikan ke Dokter
+90,Laki,Magister,Kuli,Sedang,Normal,Ya,29.3,Ya,Tidak pernah,5.0,Normal,Tinggi,0,Sering,5,4,4865,6,Kadang-kadang,Sering,Rendah,5,3,0,0,3,3,3,Direkomendasikan ke Dokter
+70,Perempuan,SMA,Kuli,Rendah,Buruk,Ya,33.2,Tidak,Kadang,5.6,Normal,Normal,5,Kadang-kadang,3,5,4834,1,Tidak pernah,Sangat Jarang,Sedang,4,1,0,3,5,1,0,Direkomendasikan ke Dokter
+76,Perempuan,SMA,Pekerja Profesional,Sedang,Buruk,Tidak,30.4,Ya,Kadang,5.6,Baik,Tinggi,1,Sangat Jarang,6,3,6539,5,Tidak pernah,Sangat Jarang,Rendah,3,4,5,0,1,4,0,Direkomendasikan ke Dokter
+74,Laki,Doktor,Pensiunan,Sedang,Baik,Ya,21.4,Tidak,Tidak pernah,8.6,Normal,Rendah,5,Sangat Jarang,6,6,3450,4,Tidak pernah,Kadang-kadang,Rendah,0,0,0,4,5,1,3,Direkomendasikan ke Dokter
+71,Laki,SMA,Kuli,Tinggi,Baik,Ya,26.8,Tidak,Kadang,8.4,Normal,Tinggi,6,Kadang-kadang,6,4,7736,1,Sering,Kadang-kadang,Rendah,3,4,4,5,1,5,5,Direkomendasikan ke Dokter
+61,Perempuan,Magister,Pekerja kantoran,Sedang,Baik,Ya,18.5,Ya,Tidak pernah,7.7,Buruk,Normal,0,Kadang-kadang,7,4,8933,2,Tidak pernah,Kadang-kadang,Sedang,3,3,5,3,3,2,1,Direkomendasikan ke Dokter
+72,Laki,SMA,Pensiunan,Rendah,Normal,Tidak,27.9,Tidak,Kadang,8.6,Buruk,Rendah,2,Sangat Jarang,8,3,4921,2,Sering,Kadang-kadang,Tinggi,5,3,2,3,5,4,4,Direkomendasikan ke Dokter
+57,Laki,SMA,Pekerja Profesional,Sedang,Normal,Tidak,27.3,Ya,Kadang,5.7,Buruk,Rendah,3,Sangat Jarang,4,5,7499,7,Tidak pernah,Sering,Tinggi,4,4,0,2,3,2,2,Direkomendasikan ke Dokter
+62,Laki,Magister,Pekerja kantoran,Rendah,Normal,Tidak,18.5,Tidak,Kadang,7.5,Buruk,Normal,7,Sangat Jarang,4,3,2887,3,Sering,Kadang-kadang,Rendah,2,3,3,2,1,4,1,Tidak Terdeteksi
+60,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Tidak,19.2,Tidak,Tidak pernah,6.8,Normal,Rendah,0,Kadang-kadang,3,5,7150,3,Sering,Sangat Jarang,Sedang,3,5,1,5,3,0,0,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Ya,23.6,Tidak,Tidak pernah,8.3,Normal,Normal,5,Sering,7,1,7094,2,Tidak pernah,Sering,Tinggi,2,2,1,3,4,5,2,Tidak Terdeteksi
+88,Laki,SMA,Kuli,Rendah,Normal,Ya,23.5,Tidak,Tidak pernah,6.8,Buruk,Rendah,0,Sangat Jarang,8,1,6726,2,Tidak pernah,Sangat Jarang,Rendah,1,3,5,4,2,4,3,Direkomendasikan ke Dokter
+46,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,19.0,Tidak,Tidak pernah,6.4,Baik,Rendah,0,Kadang-kadang,5,5,4968,0,Sering,Sering,Sedang,3,4,1,1,5,5,1,Direkomendasikan ke Dokter
+71,Laki,SMA,Pekerja Profesional,Tinggi,Buruk,Ya,26.9,Ya,Kadang,7.8,Buruk,Normal,0,Sangat Jarang,5,3,1000,7,Kadang-kadang,Sangat Jarang,Sedang,2,4,1,5,4,4,5,Direkomendasikan ke Dokter
+48,Perempuan,SMA,Pensiunan,Tinggi,Baik,Ya,26.3,Ya,Kadang,8.3,Normal,Normal,2,Sangat Jarang,8,3,3716,6,Kadang-kadang,Sering,Rendah,1,4,5,5,3,2,4,Direkomendasikan ke Dokter
+60,Laki,Doktor,Pekerja Profesional,Tinggi,Buruk,Ya,24.0,Tidak,Kadang,6.0,Buruk,Normal,7,Sangat Jarang,7,5,3748,0,Tidak pernah,Sangat Jarang,Tinggi,5,1,1,2,3,2,1,Direkomendasikan ke Dokter
+75,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,21.2,Tidak,Kadang,6.9,Normal,Tinggi,4,Sering,6,2,3043,6,Kadang-kadang,Sangat Jarang,Tinggi,4,5,0,4,2,4,1,Direkomendasikan ke Dokter
+65,Perempuan,Sarjana,Kuli,Rendah,Buruk,Ya,30.2,Tidak,Sering,5.4,Buruk,Tinggi,4,Sangat Jarang,3,3,5244,4,Kadang-kadang,Sangat Jarang,Rendah,3,5,2,5,3,4,5,Direkomendasikan ke Dokter
+54,Laki,SMA,Pekerja kantoran,Sedang,Baik,Tidak,33.3,Tidak,Kadang,4.0,Normal,Tinggi,0,Kadang-kadang,7,6,4162,3,Tidak pernah,Sering,Rendah,4,1,5,4,2,3,2,Direkomendasikan ke Dokter
+57,Perempuan,Sarjana,Tidak bekerja,Rendah,Normal,Ya,22.6,Tidak,Sering,7.3,Normal,Normal,2,Sangat Jarang,4,7,3350,3,Tidak pernah,Sering,Rendah,1,5,3,5,5,5,3,Direkomendasikan ke Dokter
+71,Laki,SMA,Kuli,Sedang,Normal,Ya,21.9,Tidak,Kadang,7.9,Baik,Tinggi,2,Sangat Jarang,3,7,2882,7,Tidak pernah,Kadang-kadang,Rendah,4,1,5,2,1,5,5,Direkomendasikan ke Dokter
+57,Laki,Doktor,Pekerja Profesional,Sedang,Baik,Ya,27.5,Tidak,Tidak pernah,7.4,Buruk,Rendah,6,Sangat Jarang,5,3,3568,2,Tidak pernah,Sering,Sedang,4,5,4,1,2,5,3,Direkomendasikan ke Dokter
+67,Laki,SMA,Pensiunan,Sedang,Baik,Tidak,23.2,Tidak,Tidak pernah,4.1,Buruk,Rendah,0,Kadang-kadang,4,6,7242,2,Tidak pernah,Kadang-kadang,Sedang,0,1,3,2,2,5,5,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Tidak bekerja,Rendah,Buruk,Ya,24.3,Tidak,Kadang,6.5,Buruk,Normal,5,Sangat Jarang,5,2,3677,4,Tidak pernah,Kadang-kadang,Rendah,1,1,4,5,4,0,1,Tidak Terdeteksi
+58,Perempuan,Tidak Sekolah,Pekerja kantoran,Rendah,Normal,Tidak,28.7,Ya,Tidak pernah,4.0,Normal,Tinggi,5,Kadang-kadang,3,2,3970,5,Tidak pernah,Sering,Tinggi,4,5,5,4,3,0,3,Direkomendasikan ke Dokter
+86,Perempuan,SMA,Pensiunan,Rendah,Normal,Tidak,18.5,Ya,Tidak pernah,9.1,Buruk,Rendah,1,Sangat Jarang,7,1,4086,5,Tidak pernah,Sangat Jarang,Rendah,2,1,4,0,5,1,2,Tidak Terdeteksi
+71,Laki,SMA,Kuli,Rendah,Normal,Ya,31.6,Ya,Kadang,5.4,Baik,Rendah,7,Sangat Jarang,8,7,5677,7,Sering,Sangat Jarang,Rendah,1,5,3,2,1,4,2,Tidak Terdeteksi
+44,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Tidak,25.4,Ya,Kadang,8.9,Normal,Rendah,0,Sangat Jarang,3,2,5912,5,Tidak pernah,Sering,Rendah,0,1,0,4,0,4,4,Direkomendasikan ke Dokter
+66,Laki,Sarjana,Pekerja Profesional,Rendah,Baik,Tidak,22.9,Tidak,Kadang,8.4,Normal,Tinggi,1,Sangat Jarang,7,3,1000,3,Kadang-kadang,Sering,Sedang,3,4,5,2,2,4,3,Direkomendasikan ke Dokter
+58,Laki,SMA,Pekerja Profesional,Rendah,Normal,Tidak,24.6,Tidak,Tidak pernah,5.6,Normal,Normal,5,Sangat Jarang,4,2,7043,0,Kadang-kadang,Sering,Sedang,5,0,5,5,0,4,4,Direkomendasikan ke Dokter
+73,Perempuan,SMA,Kuli,Rendah,Buruk,Tidak,24.8,Tidak,Tidak pernah,5.3,Buruk,Rendah,5,Sangat Jarang,7,5,7872,5,Sering,Sering,Rendah,4,5,1,4,3,5,5,Direkomendasikan ke Dokter
+57,Laki,Sarjana,Pekerja kantoran,Sedang,Normal,Ya,18.5,Tidak,Kadang,7.5,Buruk,Normal,0,Kadang-kadang,5,3,2899,1,Kadang-kadang,Sangat Jarang,Rendah,2,1,5,1,2,5,0,Tidak Terdeteksi
+63,Laki,Sarjana,Pekerja Profesional,Sedang,Buruk,Ya,32.5,Tidak,Sering,5.7,Normal,Normal,1,Kadang-kadang,6,1,3055,7,Tidak pernah,Sering,Tinggi,0,4,5,4,0,0,2,Tidak Terdeteksi
+70,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Ya,25.2,Ya,Kadang,7.2,Normal,Normal,1,Sangat Jarang,5,4,4099,4,Tidak pernah,Kadang-kadang,Tinggi,1,0,0,3,4,2,1,Tidak Terdeteksi
+73,Laki,SMA,Tidak bekerja,Rendah,Normal,Ya,27.2,Ya,Sering,6.3,Buruk,Rendah,0,Sangat Jarang,8,1,3487,5,Tidak pernah,Sering,Rendah,5,1,1,0,0,3,2,Direkomendasikan ke Dokter
+52,Laki,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Tidak,29.8,Ya,Kadang,4.3,Buruk,Tinggi,7,Sangat Jarang,3,2,5447,1,Tidak pernah,Kadang-kadang,Rendah,5,0,2,5,4,5,0,Direkomendasikan ke Dokter
+61,Perempuan,Sarjana,Tidak bekerja,Rendah,Normal,Ya,19.9,Tidak,Kadang,4.0,Baik,Normal,6,Sangat Jarang,7,1,1106,5,Sering,Kadang-kadang,Sedang,4,5,4,4,1,5,1,Direkomendasikan ke Dokter
+60,Laki,Sarjana,Pekerja Profesional,Sedang,Normal,Tidak,27.4,Ya,Tidak pernah,7.3,Buruk,Normal,1,Sangat Jarang,8,1,2764,0,Kadang-kadang,Kadang-kadang,Sedang,0,0,3,5,3,5,3,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Kuli,Sedang,Buruk,Tidak,23.7,Ya,Kadang,6.2,Baik,Rendah,6,Sering,7,4,8078,0,Tidak pernah,Sangat Jarang,Rendah,0,2,2,2,5,2,3,Direkomendasikan ke Dokter
+82,Perempuan,Sarjana,Pensiunan,Rendah,Baik,Tidak,29.2,Tidak,Kadang,6.2,Normal,Normal,3,Sangat Jarang,10,1,3143,5,Tidak pernah,Sangat Jarang,Tinggi,2,3,1,2,0,2,2,Tidak Terdeteksi
+69,Laki,Sarjana,Pekerja kantoran,Rendah,Buruk,Tidak,18.5,Tidak,Kadang,8.0,Buruk,Normal,7,Sangat Jarang,4,1,7486,7,Sering,Sering,Sedang,3,2,0,4,2,0,1,Direkomendasikan ke Dokter
+52,Laki,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,24.5,Ya,Kadang,8.8,Buruk,Normal,5,Sangat Jarang,7,3,5710,7,Tidak pernah,Sering,Sedang,3,5,3,3,3,5,5,Direkomendasikan ke Dokter
+74,Laki,Magister,Kuli,Rendah,Buruk,Ya,22.0,Tidak,Kadang,6.6,Buruk,Rendah,4,Sangat Jarang,5,2,1381,1,Kadang-kadang,Sangat Jarang,Sedang,3,5,4,4,0,3,1,Direkomendasikan ke Dokter
+86,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Ya,27.2,Tidak,Tidak pernah,6.5,Normal,Tinggi,7,Kadang-kadang,8,7,6270,4,Kadang-kadang,Sering,Tinggi,5,0,5,1,2,4,4,Direkomendasikan ke Dokter
+75,Laki,SMA,Pensiunan,Rendah,Buruk,Ya,27.4,Tidak,Kadang,7.8,Normal,Rendah,6,Sangat Jarang,5,7,4764,1,Kadang-kadang,Kadang-kadang,Sedang,5,4,5,3,2,5,0,Direkomendasikan ke Dokter
+49,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,21.5,Tidak,Tidak pernah,5.0,Normal,Normal,6,Sangat Jarang,5,2,4089,4,Sering,Kadang-kadang,Rendah,1,1,2,5,5,0,3,Direkomendasikan ke Dokter
+60,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Ya,21.4,Ya,Kadang,7.3,Baik,Tinggi,6,Kadang-kadang,8,5,5489,5,Tidak pernah,Sangat Jarang,Rendah,5,3,4,4,5,0,2,Direkomendasikan ke Dokter
+77,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,24.4,Ya,Tidak pernah,7.8,Normal,Normal,2,Sangat Jarang,5,5,5949,4,Tidak pernah,Sering,Sedang,5,1,1,5,2,3,1,Direkomendasikan ke Dokter
+57,Laki,Magister,Pekerja Profesional,Tinggi,Normal,Ya,20.5,Tidak,Tidak pernah,8.0,Buruk,Tinggi,7,Kadang-kadang,3,2,6415,2,Sering,Sering,Rendah,0,4,4,0,5,1,3,Direkomendasikan ke Dokter
+69,Laki,Tidak Sekolah,Pensiunan,Rendah,Normal,Ya,29.2,Tidak,Kadang,4.1,Buruk,Normal,1,Kadang-kadang,4,1,7356,3,Tidak pernah,Kadang-kadang,Sedang,1,5,0,3,2,0,2,Tidak Terdeteksi
+72,Perempuan,SMA,Pekerja kantoran,Rendah,Baik,Tidak,23.2,Tidak,Kadang,5.9,Baik,Normal,1,Sangat Jarang,7,3,5816,6,Tidak pernah,Kadang-kadang,Tinggi,0,3,2,4,0,2,3,Direkomendasikan ke Dokter
+55,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,18.5,Tidak,Kadang,5.7,Buruk,Tinggi,2,Kadang-kadang,8,3,2248,3,Kadang-kadang,Sangat Jarang,Sedang,2,2,2,0,1,2,2,Tidak Terdeteksi
+64,Laki,Magister,Pekerja kantoran,Rendah,Buruk,Ya,23.1,Tidak,Tidak pernah,7.1,Buruk,Rendah,1,Sangat Jarang,6,3,4052,0,Kadang-kadang,Kadang-kadang,Tinggi,2,5,0,4,5,4,3,Direkomendasikan ke Dokter
+40,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,19.8,Tidak,Kadang,7.7,Normal,Normal,2,Kadang-kadang,8,4,10000,2,Tidak pernah,Sangat Jarang,Rendah,1,5,4,1,4,0,5,Direkomendasikan ke Dokter
+54,Perempuan,SMA,Tidak bekerja,Rendah,Normal,Tidak,18.5,Tidak,Tidak pernah,9.2,Normal,Tinggi,6,Sangat Jarang,3,2,6448,3,Tidak pernah,Sangat Jarang,Tinggi,1,0,0,2,4,4,4,Direkomendasikan ke Dokter
+62,Perempuan,Tidak Sekolah,Pekerja Profesional,Sedang,Baik,Tidak,18.8,Tidak,Sering,6.3,Baik,Normal,0,Sangat Jarang,5,1,9738,5,Tidak pernah,Kadang-kadang,Sedang,5,4,3,5,4,0,0,Direkomendasikan ke Dokter
+52,Perempuan,SMA,Pekerja kantoran,Rendah,Buruk,Ya,25.5,Ya,Sering,6.3,Normal,Normal,7,Kadang-kadang,5,4,7790,4,Sering,Sering,Rendah,2,0,0,4,1,3,3,Direkomendasikan ke Dokter
+81,Laki,Doktor,Pekerja Profesional,Rendah,Buruk,Tidak,31.6,Tidak,Kadang,8.7,Buruk,Normal,3,Sering,5,4,5483,4,Tidak pernah,Kadang-kadang,Sedang,4,0,4,3,2,5,0,Direkomendasikan ke Dokter
+50,Laki,Doktor,Tidak bekerja,Tinggi,Baik,Tidak,26.6,Ya,Tidak pernah,7.4,Baik,Tinggi,6,Sering,6,1,5602,1,Kadang-kadang,Sangat Jarang,Rendah,3,1,0,4,2,0,3,Direkomendasikan ke Dokter
+60,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Ya,22.0,Ya,Kadang,8.9,Buruk,Tinggi,3,Kadang-kadang,7,5,4926,1,Kadang-kadang,Kadang-kadang,Sedang,5,5,1,4,3,1,1,Direkomendasikan ke Dokter
+66,Perempuan,Doktor,Pekerja kantoran,Tinggi,Baik,Tidak,27.3,Tidak,Tidak pernah,7.4,Normal,Normal,5,Sangat Jarang,5,1,1524,7,Tidak pernah,Sering,Sedang,3,4,5,4,4,2,4,Direkomendasikan ke Dokter
+79,Perempuan,Sarjana,Pekerja Profesional,Rendah,Normal,Tidak,22.7,Ya,Kadang,5.3,Normal,Normal,6,Sangat Jarang,6,2,5036,4,Sering,Sering,Rendah,2,0,0,4,4,3,5,Direkomendasikan ke Dokter
+50,Laki,Magister,Tidak bekerja,Tinggi,Buruk,Ya,21.5,Ya,Tidak pernah,5.0,Buruk,Tinggi,4,Sangat Jarang,5,3,7421,7,Kadang-kadang,Sering,Sedang,3,2,5,3,2,5,4,Direkomendasikan ke Dokter
+76,Laki,SMA,Pekerja kantoran,Sedang,Normal,Ya,19.2,Ya,Sering,4.7,Normal,Rendah,1,Sangat Jarang,4,2,3800,5,Kadang-kadang,Kadang-kadang,Sedang,4,3,0,3,4,5,0,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja kantoran,Tinggi,Normal,Tidak,18.5,Tidak,Tidak pernah,8.0,Buruk,Rendah,4,Sangat Jarang,5,2,5823,4,Kadang-kadang,Sering,Rendah,4,4,4,4,2,2,1,Direkomendasikan ke Dokter
+55,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Tidak,23.1,Tidak,Kadang,8.8,Normal,Tinggi,0,Sering,5,7,6703,1,Tidak pernah,Sangat Jarang,Rendah,0,1,3,2,2,5,2,Tidak Terdeteksi
+69,Perempuan,Sarjana,Pekerja Profesional,Rendah,Normal,Ya,25.8,Tidak,Kadang,9.8,Normal,Tinggi,3,Sangat Jarang,5,2,3180,3,Sering,Sangat Jarang,Sedang,1,4,3,4,5,4,4,Direkomendasikan ke Dokter
+66,Laki,SMA,Pekerja Profesional,Tinggi,Normal,Tidak,24.5,Ya,Kadang,8.3,Normal,Tinggi,7,Sangat Jarang,6,8,4097,7,Kadang-kadang,Sangat Jarang,Sedang,3,5,5,5,2,3,5,Direkomendasikan ke Dokter
+58,Laki,Tidak Sekolah,Pensiunan,Rendah,Buruk,Ya,22.9,Tidak,Tidak pernah,8.7,Baik,Normal,6,Sangat Jarang,6,4,2964,7,Kadang-kadang,Kadang-kadang,Tinggi,4,1,4,5,0,1,1,Direkomendasikan ke Dokter
+65,Laki,SMA,Kuli,Rendah,Normal,Ya,20.3,Tidak,Sering,6.1,Buruk,Rendah,7,Sering,5,4,3355,0,Kadang-kadang,Sering,Tinggi,1,3,4,3,0,2,1,Tidak Terdeteksi
+61,Perempuan,Sarjana,Pensiunan,Rendah,Normal,Ya,28.0,Tidak,Kadang,5.3,Normal,Normal,0,Kadang-kadang,8,4,2424,1,Tidak pernah,Sering,Sedang,1,2,4,5,0,0,0,Tidak Terdeteksi
+66,Laki,SMA,Pekerja kantoran,Sedang,Baik,Tidak,18.5,Tidak,Kadang,8.3,Normal,Rendah,0,Kadang-kadang,3,9,3199,5,Kadang-kadang,Sangat Jarang,Sedang,0,0,1,5,0,0,5,Direkomendasikan ke Dokter
+71,Perempuan,Sarjana,Tidak bekerja,Rendah,Buruk,Tidak,28.9,Ya,Tidak pernah,7.6,Buruk,Rendah,1,Sangat Jarang,4,2,7838,7,Tidak pernah,Sangat Jarang,Sedang,1,4,2,1,1,0,1,Tidak Terdeteksi
+80,Laki,Doktor,Tidak bekerja,Sedang,Buruk,Ya,20.0,Tidak,Kadang,7.2,Normal,Tinggi,0,Sering,10,1,3169,3,Kadang-kadang,Sangat Jarang,Sedang,1,1,0,4,3,3,1,Tidak Terdeteksi
+52,Perempuan,Tidak Sekolah,Pekerja kantoran,Sedang,Normal,Ya,21.2,Tidak,Kadang,7.6,Normal,Rendah,6,Sangat Jarang,3,2,5252,3,Kadang-kadang,Sangat Jarang,Rendah,5,3,4,4,3,1,2,Direkomendasikan ke Dokter
+86,Perempuan,Sarjana,Pekerja Profesional,Sedang,Buruk,Ya,18.5,Tidak,Tidak pernah,7.5,Buruk,Tinggi,6,Sering,3,4,3994,3,Tidak pernah,Kadang-kadang,Rendah,2,0,4,4,2,5,0,Tidak Terdeteksi
+45,Perempuan,SMA,Pekerja Profesional,Tinggi,Normal,Tidak,22.5,Tidak,Tidak pernah,8.9,Normal,Normal,7,Kadang-kadang,7,1,7357,2,Tidak pernah,Sering,Sedang,0,3,4,4,4,1,0,Tidak Terdeteksi
+63,Laki,Magister,Pekerja Profesional,Rendah,Normal,Tidak,29.9,Tidak,Kadang,8.9,Buruk,Normal,7,Sangat Jarang,3,4,7622,2,Kadang-kadang,Sering,Rendah,0,2,3,0,0,1,5,Direkomendasikan ke Dokter
+70,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Tidak,27.6,Tidak,Tidak pernah,7.8,Normal,Rendah,3,Sangat Jarang,5,7,6728,6,Tidak pernah,Kadang-kadang,Sedang,3,0,4,4,3,2,1,Direkomendasikan ke Dokter
+67,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Tidak,29.9,Tidak,Tidak pernah,8.3,Buruk,Normal,6,Kadang-kadang,10,4,5612,3,Sering,Sering,Tinggi,1,0,0,3,3,3,2,Tidak Terdeteksi
+58,Perempuan,Sarjana,Kuli,Rendah,Normal,Tidak,27.6,Tidak,Kadang,7.8,Baik,Rendah,4,Sangat Jarang,3,3,4537,7,Tidak pernah,Kadang-kadang,Rendah,3,0,4,3,0,0,3,Direkomendasikan ke Dokter
+62,Perempuan,Magister,Pekerja kantoran,Rendah,Buruk,Ya,19.5,Tidak,Kadang,6.3,Normal,Tinggi,3,Sering,3,2,2616,5,Tidak pernah,Sangat Jarang,Sedang,5,1,0,0,1,2,4,Direkomendasikan ke Dokter
+60,Perempuan,Sarjana,Pekerja kantoran,Rendah,Baik,Ya,23.3,Ya,Tidak pernah,8.1,Normal,Tinggi,1,Sangat Jarang,3,5,8887,4,Tidak pernah,Kadang-kadang,Tinggi,4,0,1,4,1,5,0,Direkomendasikan ke Dokter
+59,Perempuan,SMA,Tidak bekerja,Rendah,Baik,Ya,21.1,Tidak,Kadang,4.9,Normal,Normal,3,Sangat Jarang,7,2,3480,5,Tidak pernah,Kadang-kadang,Sedang,1,3,2,2,3,1,2,Tidak Terdeteksi
+73,Perempuan,Sarjana,Kuli,Tinggi,Normal,Tidak,31.7,Tidak,Tidak pernah,8.6,Baik,Rendah,2,Sangat Jarang,8,7,6327,2,Kadang-kadang,Sering,Rendah,4,1,3,4,1,0,5,Direkomendasikan ke Dokter
+68,Laki,Magister,Pekerja kantoran,Sedang,Normal,Tidak,19.0,Tidak,Tidak pernah,5.2,Normal,Tinggi,7,Sangat Jarang,4,7,7119,1,Tidak pernah,Sangat Jarang,Rendah,2,0,0,3,5,3,2,Tidak Terdeteksi
+58,Perempuan,SMA,Pekerja Profesional,Rendah,Normal,Ya,29.5,Ya,Tidak pernah,7.4,Buruk,Normal,4,Sangat Jarang,7,4,3889,7,Sering,Sangat Jarang,Sedang,5,3,5,1,0,4,1,Direkomendasikan ke Dokter
+73,Laki,Tidak Sekolah,Pensiunan,Sedang,Baik,Tidak,29.5,Tidak,Kadang,5.7,Normal,Rendah,7,Sangat Jarang,8,3,7076,6,Kadang-kadang,Sangat Jarang,Sedang,1,3,1,5,3,1,4,Direkomendasikan ke Dokter
+68,Laki,Magister,Pensiunan,Rendah,Normal,Ya,34.1,Tidak,Tidak pernah,7.8,Baik,Normal,2,Kadang-kadang,9,6,6528,2,Kadang-kadang,Sering,Rendah,3,4,2,1,0,1,0,Direkomendasikan ke Dokter
+73,Perempuan,Sarjana,Pekerja Profesional,Rendah,Normal,Ya,23.0,Tidak,Tidak pernah,6.9,Normal,Tinggi,2,Sangat Jarang,5,6,8455,4,Kadang-kadang,Kadang-kadang,Rendah,3,3,2,2,1,1,3,Direkomendasikan ke Dokter
+71,Laki,Sarjana,Pekerja kantoran,Sedang,Baik,Tidak,28.6,Tidak,Kadang,4.6,Normal,Rendah,5,Sering,3,2,4061,0,Tidak pernah,Sering,Tinggi,1,5,2,4,0,1,1,Tidak Terdeteksi
+56,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,36.4,Tidak,Kadang,7.6,Baik,Rendah,6,Kadang-kadang,4,2,2428,6,Tidak pernah,Sering,Sedang,3,2,0,0,1,0,0,Direkomendasikan ke Dokter
+59,Perempuan,Sarjana,Pekerja Profesional,Rendah,Baik,Tidak,21.9,Ya,Tidak pernah,6.1,Baik,Tinggi,1,Sering,5,1,3989,2,Tidak pernah,Sangat Jarang,Tinggi,1,0,1,4,1,3,5,Direkomendasikan ke Dokter
+72,Laki,SMA,Kuli,Tinggi,Buruk,Ya,18.5,Tidak,Kadang,8.3,Baik,Rendah,0,Sangat Jarang,5,4,5417,5,Kadang-kadang,Kadang-kadang,Sedang,0,0,4,2,0,2,0,Tidak Terdeteksi
+71,Perempuan,Sarjana,Pekerja kantoran,Tinggi,Buruk,Ya,18.5,Ya,Tidak pernah,7.0,Buruk,Rendah,2,Sangat Jarang,5,5,5116,6,Sering,Sering,Tinggi,3,0,5,2,1,0,2,Direkomendasikan ke Dokter
+64,Laki,SMA,Pensiunan,Sedang,Buruk,Tidak,28.6,Ya,Kadang,7.6,Normal,Normal,3,Sangat Jarang,8,1,4213,7,Tidak pernah,Kadang-kadang,Rendah,1,3,1,5,5,3,4,Direkomendasikan ke Dokter
+66,Laki,Sarjana,Pekerja kantoran,Sedang,Baik,Ya,18.5,Tidak,Kadang,5.6,Normal,Tinggi,0,Kadang-kadang,8,3,1181,5,Sering,Sering,Sedang,1,3,1,2,2,2,3,Direkomendasikan ke Dokter
+77,Laki,Doktor,Pekerja kantoran,Sedang,Baik,Ya,23.1,Tidak,Kadang,6.1,Normal,Normal,3,Sering,5,1,5940,3,Tidak pernah,Sangat Jarang,Rendah,3,0,1,1,0,1,4,Direkomendasikan ke Dokter
+59,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Normal,Tidak,27.2,Tidak,Tidak pernah,6.3,Normal,Tinggi,7,Sangat Jarang,8,2,8944,3,Tidak pernah,Sangat Jarang,Sedang,0,5,0,5,2,3,2,Tidak Terdeteksi
+70,Perempuan,Doktor,Kuli,Rendah,Normal,Ya,25.9,Tidak,Tidak pernah,8.3,Buruk,Normal,3,Sangat Jarang,6,5,5928,3,Tidak pernah,Sering,Sedang,3,1,5,4,0,1,3,Direkomendasikan ke Dokter
+62,Laki,SMA,Pekerja kantoran,Rendah,Normal,Tidak,27.1,Tidak,Tidak pernah,9.5,Normal,Rendah,0,Sering,6,2,6218,6,Tidak pernah,Sering,Rendah,1,1,0,4,1,3,3,Direkomendasikan ke Dokter
+62,Perempuan,Magister,Pekerja kantoran,Rendah,Baik,Tidak,26.1,Tidak,Tidak pernah,5.8,Normal,Tinggi,0,Sangat Jarang,7,3,6144,0,Tidak pernah,Sering,Tinggi,0,2,5,0,1,5,1,Tidak Terdeteksi
+75,Laki,Sarjana,Tidak bekerja,Sedang,Normal,Ya,31.4,Ya,Tidak pernah,8.6,Buruk,Normal,6,Kadang-kadang,6,1,5794,4,Sering,Kadang-kadang,Tinggi,4,4,5,2,3,4,3,Direkomendasikan ke Dokter
+73,Perempuan,SMA,Tidak bekerja,Rendah,Buruk,Ya,20.2,Tidak,Kadang,4.0,Normal,Rendah,3,Kadang-kadang,10,4,6863,7,Tidak pernah,Sering,Rendah,2,2,0,2,5,1,0,Direkomendasikan ke Dokter
+73,Perempuan,Sarjana,Pensiunan,Tinggi,Buruk,Tidak,21.6,Tidak,Sering,5.2,Buruk,Normal,1,Sering,3,3,5790,6,Kadang-kadang,Sering,Sedang,3,0,5,3,3,1,4,Direkomendasikan ke Dokter
+78,Perempuan,Magister,Kuli,Tinggi,Normal,Tidak,21.1,Tidak,Sering,5.6,Normal,Normal,6,Sangat Jarang,4,2,4374,1,Kadang-kadang,Sering,Rendah,5,0,1,5,2,1,5,Direkomendasikan ke Dokter
+65,Laki,SMA,Pekerja kantoran,Sedang,Normal,Tidak,29.2,Ya,Kadang,5.0,Buruk,Rendah,4,Sangat Jarang,5,3,3408,7,Kadang-kadang,Kadang-kadang,Sedang,1,0,0,3,1,5,5,Direkomendasikan ke Dokter
+71,Laki,SMA,Kuli,Sedang,Buruk,Tidak,29.5,Tidak,Kadang,4.6,Normal,Rendah,5,Kadang-kadang,6,4,4502,5,Tidak pernah,Sangat Jarang,Tinggi,0,4,5,5,3,0,4,Direkomendasikan ke Dokter
+61,Laki,Sarjana,Pensiunan,Tinggi,Buruk,Tidak,27.3,Ya,Kadang,7.6,Normal,Normal,4,Sering,8,2,5628,5,Sering,Sering,Rendah,0,3,2,1,1,2,1,Tidak Terdeteksi
+68,Perempuan,Sarjana,Kuli,Rendah,Baik,Tidak,30.9,Ya,Tidak pernah,6.7,Normal,Tinggi,1,Sangat Jarang,5,1,4367,6,Kadang-kadang,Kadang-kadang,Tinggi,4,4,0,5,0,1,3,Direkomendasikan ke Dokter
+63,Laki,Sarjana,Pekerja kantoran,Sedang,Buruk,Ya,19.1,Tidak,Kadang,7.6,Normal,Normal,6,Sangat Jarang,3,7,5628,6,Kadang-kadang,Kadang-kadang,Rendah,3,2,3,4,3,1,2,Direkomendasikan ke Dokter
+65,Perempuan,Sarjana,Pensiunan,Rendah,Normal,Ya,33.3,Tidak,Kadang,8.0,Baik,Tinggi,5,Kadang-kadang,7,2,5878,4,Tidak pernah,Kadang-kadang,Sedang,5,3,0,0,2,0,0,Direkomendasikan ke Dokter
+70,Perempuan,SMA,Pensiunan,Sedang,Baik,Ya,32.6,Tidak,Kadang,7.4,Buruk,Rendah,6,Sering,7,3,6666,0,Tidak pernah,Kadang-kadang,Sedang,0,3,0,5,3,0,1,Tidak Terdeteksi
+56,Laki,Sarjana,Kuli,Rendah,Normal,Ya,28.7,Tidak,Kadang,8.0,Buruk,Rendah,0,Sering,3,6,7565,6,Tidak pernah,Kadang-kadang,Rendah,4,2,0,5,1,4,3,Direkomendasikan ke Dokter
+85,Perempuan,SMA,Pensiunan,Tinggi,Buruk,Ya,33.9,Tidak,Tidak pernah,6.9,Baik,Rendah,5,Sering,5,10,5156,3,Tidak pernah,Sangat Jarang,Rendah,1,3,5,5,4,3,5,Direkomendasikan ke Dokter
+54,Laki,SMA,Pekerja kantoran,Tinggi,Normal,Ya,18.5,Tidak,Tidak pernah,5.2,Buruk,Rendah,7,Sangat Jarang,3,1,2384,4,Sering,Sering,Tinggi,4,1,0,0,4,1,2,Direkomendasikan ke Dokter
+52,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Baik,Tidak,22.4,Tidak,Sering,8.6,Baik,Rendah,3,Sangat Jarang,4,4,4309,1,Sering,Kadang-kadang,Sedang,3,2,3,2,5,3,3,Direkomendasikan ke Dokter
+76,Perempuan,SMA,Kuli,Rendah,Normal,Ya,21.3,Ya,Tidak pernah,6.1,Baik,Tinggi,4,Kadang-kadang,4,2,5088,3,Tidak pernah,Kadang-kadang,Rendah,4,2,4,0,1,0,1,Direkomendasikan ke Dokter
+72,Perempuan,SMA,Tidak bekerja,Tinggi,Baik,Ya,28.6,Tidak,Kadang,5.6,Normal,Tinggi,5,Sering,7,2,1328,1,Kadang-kadang,Sangat Jarang,Sedang,0,1,0,2,0,0,2,Tidak Terdeteksi
+71,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Ya,19.7,Tidak,Sering,6.7,Baik,Tinggi,3,Sangat Jarang,6,2,7777,2,Sering,Sangat Jarang,Rendah,0,4,2,4,3,4,2,Direkomendasikan ke Dokter
+71,Laki,Sarjana,Pekerja kantoran,Tinggi,Normal,Ya,28.8,Tidak,Kadang,5.6,Buruk,Rendah,6,Sangat Jarang,3,1,5284,1,Sering,Sangat Jarang,Rendah,2,4,3,0,4,2,2,Tidak Terdeteksi
+64,Laki,SMA,Pekerja kantoran,Sedang,Normal,Ya,31.9,Tidak,Kadang,6.4,Normal,Tinggi,1,Kadang-kadang,7,3,5762,3,Sering,Sering,Sedang,4,4,4,2,0,5,2,Direkomendasikan ke Dokter
+56,Perempuan,SMA,Pekerja Profesional,Rendah,Baik,Ya,28.5,Tidak,Tidak pernah,7.5,Normal,Normal,5,Sangat Jarang,3,1,7731,2,Sering,Sangat Jarang,Rendah,1,3,5,4,1,5,3,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Ya,26.4,Tidak,Tidak pernah,7.5,Normal,Rendah,3,Sangat Jarang,6,5,3739,3,Tidak pernah,Sering,Tinggi,5,1,0,4,0,5,2,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Kuli,Rendah,Baik,Tidak,20.1,Tidak,Kadang,5.7,Baik,Tinggi,6,Kadang-kadang,4,4,6148,5,Kadang-kadang,Sangat Jarang,Sedang,5,2,4,2,1,0,3,Direkomendasikan ke Dokter
+74,Laki,SMA,Pekerja Profesional,Sedang,Normal,Tidak,20.8,Ya,Kadang,6.3,Buruk,Normal,6,Kadang-kadang,5,4,4780,3,Tidak pernah,Sangat Jarang,Tinggi,3,2,2,2,5,1,2,Direkomendasikan ke Dokter
+63,Perempuan,Tidak Sekolah,Kuli,Rendah,Buruk,Tidak,31.2,Tidak,Kadang,8.6,Normal,Rendah,6,Kadang-kadang,7,3,4631,2,Kadang-kadang,Sangat Jarang,Sedang,2,2,3,1,3,4,2,Tidak Terdeteksi
+56,Laki,Sarjana,Pekerja Profesional,Sedang,Buruk,Tidak,28.9,Tidak,Tidak pernah,7.7,Normal,Normal,1,Sangat Jarang,7,3,3455,1,Kadang-kadang,Sangat Jarang,Tinggi,4,3,3,4,0,2,1,Direkomendasikan ke Dokter
+61,Laki,Sarjana,Pekerja Profesional,Rendah,Baik,Ya,24.8,Tidak,Tidak pernah,10.0,Normal,Rendah,0,Kadang-kadang,8,4,8331,5,Kadang-kadang,Sering,Sedang,1,3,5,2,3,5,3,Direkomendasikan ke Dokter
+69,Perempuan,Sarjana,Pensiunan,Sedang,Buruk,Tidak,22.9,Ya,Sering,8.8,Buruk,Tinggi,1,Kadang-kadang,5,1,4248,0,Tidak pernah,Sering,Sedang,2,5,5,4,0,4,5,Direkomendasikan ke Dokter
+59,Laki,SMA,Tidak bekerja,Tinggi,Buruk,Tidak,18.5,Tidak,Tidak pernah,8.7,Normal,Normal,1,Kadang-kadang,6,3,6398,0,Sering,Kadang-kadang,Tinggi,0,4,5,0,1,0,3,Direkomendasikan ke Dokter
+56,Perempuan,SMA,Tidak bekerja,Tinggi,Buruk,Ya,19.6,Tidak,Kadang,4.9,Baik,Tinggi,7,Kadang-kadang,5,2,1249,7,Tidak pernah,Sangat Jarang,Sedang,3,5,4,3,1,5,4,Direkomendasikan ke Dokter
+67,Laki,Magister,Kuli,Rendah,Baik,Tidak,34.6,Tidak,Tidak pernah,8.1,Buruk,Rendah,4,Sangat Jarang,6,2,7359,0,Tidak pernah,Sangat Jarang,Rendah,4,5,0,3,0,2,5,Direkomendasikan ke Dokter
+67,Laki,SMA,Kuli,Tinggi,Normal,Ya,18.6,Tidak,Kadang,6.9,Baik,Normal,6,Sangat Jarang,6,1,7104,0,Tidak pernah,Kadang-kadang,Sedang,5,3,1,5,5,3,1,Direkomendasikan ke Dokter
+59,Perempuan,SMA,Kuli,Sedang,Normal,Tidak,25.9,Tidak,Sering,6.2,Normal,Normal,3,Sangat Jarang,5,6,5194,4,Sering,Sering,Tinggi,1,4,3,2,1,2,3,Direkomendasikan ke Dokter
+60,Perempuan,Tidak Sekolah,Pensiunan,Sedang,Buruk,Tidak,30.0,Tidak,Kadang,7.3,Normal,Normal,5,Sangat Jarang,3,2,4546,0,Sering,Sangat Jarang,Sedang,0,4,1,2,2,1,1,Tidak Terdeteksi
+67,Perempuan,SMA,Kuli,Tinggi,Normal,Ya,18.7,Tidak,Tidak pernah,8.4,Normal,Normal,4,Kadang-kadang,6,6,5800,2,Sering,Sering,Sedang,2,2,3,4,2,5,5,Direkomendasikan ke Dokter
+50,Perempuan,SMA,Kuli,Rendah,Normal,Tidak,25.9,Tidak,Kadang,7.8,Buruk,Tinggi,6,Sering,6,6,9577,6,Tidak pernah,Kadang-kadang,Sedang,3,3,5,5,3,5,1,Direkomendasikan ke Dokter
+50,Perempuan,SMA,Pekerja Profesional,Rendah,Baik,Tidak,29.7,Ya,Kadang,5.7,Normal,Tinggi,2,Kadang-kadang,4,1,1473,0,Sering,Sangat Jarang,Tinggi,2,4,0,2,2,3,1,Tidak Terdeteksi
+57,Perempuan,SMA,Pekerja kantoran,Tinggi,Baik,Tidak,25.1,Tidak,Kadang,8.1,Baik,Tinggi,1,Kadang-kadang,3,1,6564,3,Tidak pernah,Kadang-kadang,Rendah,5,5,0,4,2,3,0,Direkomendasikan ke Dokter
+62,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Ya,39.3,Tidak,Kadang,6.0,Normal,Tinggi,2,Sangat Jarang,8,9,3176,6,Tidak pernah,Sangat Jarang,Sedang,2,1,3,2,5,5,3,Direkomendasikan ke Dokter
+68,Laki,Sarjana,Tidak bekerja,Tinggi,Normal,Tidak,18.5,Tidak,Kadang,7.3,Baik,Tinggi,6,Sangat Jarang,6,7,4960,0,Kadang-kadang,Sering,Rendah,1,1,4,4,5,1,1,Tidak Terdeteksi
+79,Perempuan,Sarjana,Pekerja kantoran,Tinggi,Buruk,Ya,30.3,Ya,Kadang,6.5,Normal,Normal,4,Sangat Jarang,5,3,4504,6,Kadang-kadang,Sangat Jarang,Sedang,0,3,5,2,4,3,0,Direkomendasikan ke Dokter
+73,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Ya,24.1,Tidak,Kadang,6.7,Buruk,Tinggi,3,Sangat Jarang,3,4,4143,1,Tidak pernah,Sering,Sedang,4,2,0,1,4,0,0,Direkomendasikan ke Dokter
+63,Perempuan,Sarjana,Tidak bekerja,Tinggi,Buruk,Ya,28.9,Ya,Tidak pernah,8.1,Normal,Normal,4,Sangat Jarang,4,2,4979,2,Sering,Sangat Jarang,Rendah,1,2,0,4,5,5,2,Tidak Terdeteksi
+64,Perempuan,Doktor,Pensiunan,Rendah,Buruk,Tidak,27.2,Ya,Tidak pernah,5.4,Baik,Normal,7,Kadang-kadang,8,4,2731,2,Kadang-kadang,Sering,Rendah,5,4,2,1,4,2,2,Direkomendasikan ke Dokter
+54,Laki,Tidak Sekolah,Kuli,Sedang,Buruk,Tidak,21.3,Tidak,Tidak pernah,9.9,Normal,Normal,3,Sering,6,2,7058,7,Tidak pernah,Sangat Jarang,Sedang,3,3,0,1,5,2,5,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja kantoran,Sedang,Normal,Tidak,26.1,Tidak,Sering,4.3,Baik,Normal,3,Sangat Jarang,4,1,1411,6,Kadang-kadang,Sering,Rendah,5,1,2,1,4,1,3,Direkomendasikan ke Dokter
+62,Perempuan,Tidak Sekolah,Pekerja kantoran,Tinggi,Buruk,Tidak,18.5,Tidak,Kadang,6.1,Baik,Rendah,6,Sangat Jarang,7,1,6079,7,Tidak pernah,Sering,Rendah,5,5,0,1,1,0,2,Direkomendasikan ke Dokter
+68,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,28.0,Tidak,Kadang,7.6,Normal,Tinggi,0,Kadang-kadang,4,4,4346,5,Tidak pernah,Sering,Tinggi,2,4,0,0,5,3,5,Direkomendasikan ke Dokter
+56,Perempuan,Magister,Pensiunan,Rendah,Normal,Ya,26.5,Ya,Tidak pernah,7.9,Buruk,Normal,6,Sangat Jarang,9,1,2658,4,Tidak pernah,Kadang-kadang,Rendah,3,5,4,5,3,5,3,Direkomendasikan ke Dokter
+70,Perempuan,SMA,Tidak bekerja,Sedang,Buruk,Ya,28.2,Tidak,Tidak pernah,6.8,Normal,Rendah,1,Sering,8,3,5404,3,Kadang-kadang,Sering,Sedang,1,4,4,3,3,2,5,Direkomendasikan ke Dokter
+80,Laki,Magister,Pekerja Profesional,Sedang,Normal,Ya,30.3,Tidak,Kadang,6.9,Normal,Normal,4,Kadang-kadang,5,1,1886,6,Kadang-kadang,Sangat Jarang,Tinggi,5,0,5,0,5,2,0,Direkomendasikan ke Dokter
+63,Perempuan,Tidak Sekolah,Pensiunan,Sedang,Buruk,Ya,26.8,Ya,Kadang,7.6,Normal,Rendah,3,Sering,4,2,5079,2,Tidak pernah,Sangat Jarang,Rendah,1,5,0,2,2,2,0,Tidak Terdeteksi
+69,Laki,Magister,Pekerja kantoran,Rendah,Normal,Ya,25.7,Tidak,Tidak pernah,6.7,Normal,Rendah,6,Sangat Jarang,3,5,2154,7,Kadang-kadang,Kadang-kadang,Rendah,4,3,5,2,3,2,3,Direkomendasikan ke Dokter
+71,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,20.6,Tidak,Kadang,9.1,Normal,Rendah,6,Kadang-kadang,3,4,5922,1,Sering,Sangat Jarang,Sedang,2,5,5,5,2,4,5,Direkomendasikan ke Dokter
+60,Perempuan,SMA,Tidak bekerja,Rendah,Buruk,Ya,21.4,Tidak,Tidak pernah,8.3,Normal,Normal,4,Sangat Jarang,3,3,3151,0,Sering,Sering,Sedang,1,5,5,3,3,1,5,Direkomendasikan ke Dokter
+67,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,30.9,Tidak,Tidak pernah,8.3,Normal,Normal,4,Kadang-kadang,6,5,4098,2,Kadang-kadang,Sangat Jarang,Tinggi,3,4,5,3,0,3,2,Direkomendasikan ke Dokter
+65,Laki,SMA,Kuli,Rendah,Buruk,Ya,32.2,Tidak,Kadang,5.6,Normal,Tinggi,7,Sangat Jarang,5,4,5587,1,Kadang-kadang,Kadang-kadang,Tinggi,5,1,3,3,0,5,2,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja Profesional,Rendah,Baik,Tidak,23.8,Tidak,Tidak pernah,6.9,Normal,Tinggi,3,Sangat Jarang,3,6,3454,0,Tidak pernah,Kadang-kadang,Sedang,4,0,3,1,5,5,3,Direkomendasikan ke Dokter
+57,Perempuan,SMA,Pensiunan,Tinggi,Normal,Tidak,25.2,Tidak,Sering,6.5,Normal,Normal,5,Kadang-kadang,5,3,4884,4,Kadang-kadang,Kadang-kadang,Rendah,3,5,0,0,3,5,4,Direkomendasikan ke Dokter
+65,Laki,Sarjana,Kuli,Rendah,Normal,Tidak,20.5,Ya,Tidak pernah,5.5,Normal,Normal,7,Kadang-kadang,7,3,1972,2,Kadang-kadang,Kadang-kadang,Rendah,2,1,3,2,1,3,2,Tidak Terdeteksi
+69,Perempuan,SMA,Pekerja Profesional,Tinggi,Normal,Ya,30.9,Tidak,Tidak pernah,7.5,Baik,Normal,2,Sering,7,1,6261,7,Tidak pernah,Sangat Jarang,Rendah,4,2,0,0,2,1,1,Direkomendasikan ke Dokter
+79,Laki,SMA,Kuli,Sedang,Buruk,Ya,28.3,Tidak,Tidak pernah,6.2,Normal,Tinggi,1,Kadang-kadang,3,3,8529,2,Tidak pernah,Kadang-kadang,Rendah,4,0,4,0,3,0,2,Direkomendasikan ke Dokter
+74,Perempuan,Sarjana,Pekerja kantoran,Tinggi,Normal,Tidak,34.7,Tidak,Kadang,8.0,Normal,Rendah,1,Kadang-kadang,5,5,10000,6,Sering,Sangat Jarang,Sedang,4,0,1,0,5,1,4,Direkomendasikan ke Dokter
+86,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,20.6,Tidak,Kadang,5.4,Normal,Rendah,5,Sangat Jarang,3,6,5182,6,Kadang-kadang,Sering,Sedang,5,4,2,3,2,2,5,Direkomendasikan ke Dokter
+57,Laki,SMA,Pensiunan,Rendah,Buruk,Ya,23.1,Tidak,Kadang,9.6,Buruk,Tinggi,0,Kadang-kadang,7,5,6576,1,Tidak pernah,Sering,Rendah,0,5,3,5,4,2,0,Tidak Terdeteksi
+73,Laki,SMA,Pekerja Profesional,Sedang,Buruk,Ya,26.2,Tidak,Tidak pernah,5.7,Buruk,Normal,7,Kadang-kadang,7,1,1438,7,Tidak pernah,Sering,Tinggi,4,2,3,5,5,1,0,Direkomendasikan ke Dokter
+66,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,28.2,Ya,Tidak pernah,7.3,Baik,Rendah,5,Sering,4,6,8005,5,Tidak pernah,Sangat Jarang,Rendah,3,4,4,3,3,1,5,Direkomendasikan ke Dokter
+86,Laki,SMA,Kuli,Sedang,Normal,Ya,23.9,Tidak,Kadang,8.2,Normal,Rendah,0,Sering,4,1,6552,6,Tidak pernah,Sangat Jarang,Sedang,3,3,3,2,1,3,0,Direkomendasikan ke Dokter
+56,Perempuan,Sarjana,Kuli,Rendah,Baik,Ya,20.6,Tidak,Kadang,6.1,Normal,Tinggi,0,Sangat Jarang,5,5,4032,3,Sering,Sangat Jarang,Sedang,2,1,0,2,4,3,2,Tidak Terdeteksi
+56,Laki,SMA,Kuli,Sedang,Buruk,Tidak,29.4,Ya,Kadang,8.3,Normal,Tinggi,5,Sering,3,3,7474,4,Tidak pernah,Sangat Jarang,Sedang,1,1,0,2,5,4,0,Tidak Terdeteksi
+59,Laki,SMA,Kuli,Sedang,Normal,Ya,28.6,Tidak,Tidak pernah,5.2,Buruk,Tinggi,1,Sangat Jarang,6,5,4491,3,Kadang-kadang,Sangat Jarang,Sedang,1,4,1,5,3,5,4,Direkomendasikan ke Dokter
+43,Perempuan,Sarjana,Pensiunan,Sedang,Buruk,Ya,20.4,Tidak,Kadang,9.2,Normal,Normal,2,Sangat Jarang,5,1,4083,2,Tidak pernah,Kadang-kadang,Rendah,0,1,1,5,0,4,4,Direkomendasikan ke Dokter
+59,Perempuan,SMA,Pekerja kantoran,Sedang,Baik,Tidak,31.8,Tidak,Sering,7.0,Normal,Normal,1,Kadang-kadang,7,6,5950,3,Tidak pernah,Sangat Jarang,Sedang,5,5,1,0,3,5,2,Direkomendasikan ke Dokter
+57,Laki,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,30.9,Ya,Tidak pernah,6.1,Normal,Tinggi,6,Sangat Jarang,3,1,2873,0,Tidak pernah,Kadang-kadang,Sedang,5,1,0,3,0,2,5,Direkomendasikan ke Dokter
+66,Perempuan,SMA,Kuli,Sedang,Normal,Ya,25.7,Ya,Kadang,6.6,Normal,Tinggi,1,Kadang-kadang,4,2,7043,4,Kadang-kadang,Sering,Tinggi,4,5,5,1,0,4,1,Direkomendasikan ke Dokter
+68,Perempuan,Doktor,Pensiunan,Rendah,Normal,Tidak,25.4,Tidak,Tidak pernah,8.2,Buruk,Rendah,1,Sangat Jarang,3,2,2888,3,Kadang-kadang,Kadang-kadang,Sedang,0,3,5,0,5,4,2,Tidak Terdeteksi
+83,Perempuan,SMA,Pekerja Profesional,Rendah,Normal,Ya,27.8,Ya,Sering,6.1,Buruk,Tinggi,7,Sangat Jarang,3,1,2899,0,Tidak pernah,Sangat Jarang,Sedang,2,2,1,4,3,0,0,Tidak Terdeteksi
+74,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Ya,20.7,Tidak,Kadang,5.9,Baik,Rendah,5,Kadang-kadang,3,4,3180,1,Tidak pernah,Sangat Jarang,Sedang,2,0,1,5,3,1,2,Tidak Terdeteksi
+59,Laki,SMA,Pekerja Profesional,Rendah,Buruk,Ya,25.2,Tidak,Sering,6.7,Normal,Rendah,5,Kadang-kadang,7,7,6519,3,Tidak pernah,Kadang-kadang,Tinggi,1,4,0,0,0,3,4,Direkomendasikan ke Dokter
+56,Perempuan,Tidak Sekolah,Pekerja kantoran,Rendah,Buruk,Ya,18.5,Ya,Kadang,5.2,Normal,Normal,6,Sering,4,9,3766,4,Kadang-kadang,Sangat Jarang,Rendah,2,4,4,3,2,4,2,Tidak Terdeteksi
+69,Laki,Sarjana,Tidak bekerja,Rendah,Buruk,Ya,29.4,Ya,Tidak pernah,9.7,Buruk,Normal,6,Kadang-kadang,6,4,2304,0,Kadang-kadang,Kadang-kadang,Sedang,4,5,3,4,4,3,2,Direkomendasikan ke Dokter
+51,Perempuan,Doktor,Pekerja kantoran,Rendah,Buruk,Tidak,18.5,Tidak,Sering,6.2,Buruk,Tinggi,7,Kadang-kadang,5,6,3788,3,Tidak pernah,Sangat Jarang,Sedang,3,3,2,0,1,5,1,Direkomendasikan ke Dokter
+83,Perempuan,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,32.5,Tidak,Tidak pernah,8.2,Normal,Rendah,5,Sangat Jarang,3,4,4935,1,Sering,Sering,Sedang,2,3,5,3,3,4,4,Direkomendasikan ke Dokter
+76,Perempuan,Sarjana,Kuli,Tinggi,Buruk,Ya,23.3,Tidak,Tidak pernah,7.3,Normal,Normal,1,Sangat Jarang,5,4,2638,3,Tidak pernah,Sering,Rendah,0,0,5,3,4,5,3,Direkomendasikan ke Dokter
+60,Perempuan,Magister,Pensiunan,Tinggi,Buruk,Ya,23.9,Tidak,Kadang,5.5,Normal,Tinggi,2,Sangat Jarang,7,3,2696,0,Sering,Kadang-kadang,Sedang,4,2,0,5,4,4,3,Direkomendasikan ke Dokter
+47,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,21.9,Tidak,Kadang,7.0,Buruk,Tinggi,0,Kadang-kadang,3,4,9222,3,Tidak pernah,Sangat Jarang,Rendah,2,4,0,1,2,2,4,Direkomendasikan ke Dokter
+78,Laki,SMA,Pekerja Profesional,Tinggi,Baik,Tidak,23.6,Tidak,Sering,8.2,Normal,Rendah,4,Kadang-kadang,7,5,3278,4,Tidak pernah,Sangat Jarang,Sedang,5,5,2,0,4,0,3,Direkomendasikan ke Dokter
+63,Perempuan,Sarjana,Pekerja kantoran,Sedang,Normal,Ya,32.1,Tidak,Tidak pernah,6.7,Buruk,Normal,0,Sangat Jarang,4,2,4353,2,Tidak pernah,Sering,Sedang,2,3,2,3,3,5,0,Tidak Terdeteksi
+77,Laki,SMA,Pekerja kantoran,Rendah,Buruk,Ya,18.5,Tidak,Kadang,8.8,Buruk,Normal,6,Kadang-kadang,5,3,4265,7,Sering,Kadang-kadang,Tinggi,5,4,1,2,5,1,3,Direkomendasikan ke Dokter
+49,Laki,Sarjana,Pekerja Profesional,Rendah,Buruk,Ya,31.4,Tidak,Kadang,8.5,Normal,Rendah,6,Kadang-kadang,7,3,4157,7,Tidak pernah,Sangat Jarang,Sedang,4,5,2,3,5,1,0,Direkomendasikan ke Dokter
+59,Perempuan,Magister,Pekerja kantoran,Sedang,Baik,Ya,26.7,Tidak,Tidak pernah,8.4,Buruk,Tinggi,0,Sangat Jarang,4,5,6242,0,Kadang-kadang,Sangat Jarang,Rendah,2,1,3,1,4,2,4,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Tidak bekerja,Sedang,Buruk,Ya,19.0,Ya,Tidak pernah,6.3,Buruk,Tinggi,4,Sangat Jarang,6,1,6896,0,Tidak pernah,Sangat Jarang,Rendah,5,4,3,3,3,2,3,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja kantoran,Sedang,Buruk,Tidak,19.6,Tidak,Tidak pernah,5.4,Normal,Rendah,1,Sering,5,3,4388,0,Kadang-kadang,Sering,Tinggi,3,2,5,5,3,1,3,Direkomendasikan ke Dokter
+60,Perempuan,Sarjana,Pensiunan,Rendah,Normal,Ya,33.4,Ya,Tidak pernah,6.1,Normal,Rendah,2,Kadang-kadang,6,7,2527,0,Sering,Sangat Jarang,Rendah,1,5,3,0,0,5,5,Direkomendasikan ke Dokter
+71,Laki,SMA,Pekerja kantoran,Rendah,Normal,Ya,20.3,Ya,Sering,7.3,Baik,Rendah,2,Sering,3,6,7548,3,Sering,Kadang-kadang,Sedang,4,2,3,5,2,1,0,Direkomendasikan ke Dokter
+54,Laki,Sarjana,Tidak bekerja,Rendah,Normal,Ya,19.2,Tidak,Kadang,7.8,Normal,Tinggi,0,Sangat Jarang,3,6,4809,4,Kadang-kadang,Kadang-kadang,Rendah,5,4,3,0,1,0,0,Direkomendasikan ke Dokter
+63,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Tidak,30.7,Tidak,Kadang,4.0,Buruk,Rendah,4,Sering,7,4,8460,7,Tidak pernah,Kadang-kadang,Sedang,0,1,1,4,0,4,2,Tidak Terdeteksi
+66,Laki,Sarjana,Kuli,Rendah,Buruk,Ya,26.7,Tidak,Sering,7.0,Buruk,Normal,7,Sangat Jarang,8,4,1000,1,Kadang-kadang,Sering,Sedang,2,2,5,0,1,0,1,Tidak Terdeteksi
+70,Laki,Tidak Sekolah,Kuli,Rendah,Baik,Tidak,20.3,Tidak,Tidak pernah,7.2,Baik,Normal,6,Sangat Jarang,4,6,5390,7,Tidak pernah,Sering,Rendah,5,3,0,4,3,1,3,Direkomendasikan ke Dokter
+72,Laki,Sarjana,Kuli,Tinggi,Buruk,Tidak,26.1,Tidak,Kadang,6.6,Normal,Normal,3,Sering,5,7,8837,4,Tidak pernah,Kadang-kadang,Rendah,5,5,5,5,5,4,5,Direkomendasikan ke Dokter
+53,Laki,SMA,Pekerja kantoran,Tinggi,Normal,Tidak,19.9,Ya,Kadang,8.9,Normal,Rendah,1,Sangat Jarang,6,1,4293,0,Kadang-kadang,Sangat Jarang,Tinggi,5,4,5,2,0,1,1,Direkomendasikan ke Dokter
+49,Laki,SMA,Pekerja Profesional,Rendah,Normal,Ya,30.5,Tidak,Kadang,7.6,Buruk,Rendah,7,Kadang-kadang,7,1,4549,5,Tidak pernah,Kadang-kadang,Sedang,1,1,5,1,4,0,5,Direkomendasikan ke Dokter
+77,Laki,SMA,Pekerja kantoran,Tinggi,Normal,Ya,30.3,Tidak,Tidak pernah,9.0,Normal,Tinggi,0,Sangat Jarang,3,6,5591,3,Kadang-kadang,Kadang-kadang,Sedang,0,3,2,2,4,0,1,Tidak Terdeteksi
+68,Laki,Sarjana,Kuli,Rendah,Buruk,Tidak,27.7,Tidak,Sering,6.7,Buruk,Tinggi,2,Kadang-kadang,4,3,3882,5,Kadang-kadang,Kadang-kadang,Tinggi,0,4,0,4,1,5,3,Direkomendasikan ke Dokter
+57,Laki,Magister,Pensiunan,Rendah,Buruk,Tidak,26.8,Tidak,Tidak pernah,8.4,Normal,Tinggi,6,Sering,5,2,4375,3,Sering,Kadang-kadang,Tinggi,3,1,2,3,3,5,5,Direkomendasikan ke Dokter
+80,Perempuan,SMA,Pensiunan,Rendah,Normal,Tidak,33.8,Ya,Tidak pernah,9.5,Baik,Rendah,7,Sangat Jarang,7,1,4324,0,Tidak pernah,Sangat Jarang,Rendah,1,3,1,3,5,0,0,Tidak Terdeteksi
+66,Laki,Tidak Sekolah,Pensiunan,Sedang,Baik,Ya,25.0,Tidak,Kadang,9.0,Baik,Normal,7,Kadang-kadang,10,2,3745,3,Kadang-kadang,Kadang-kadang,Tinggi,5,2,1,2,1,4,2,Direkomendasikan ke Dokter
+76,Laki,Tidak Sekolah,Kuli,Tinggi,Baik,Ya,19.1,Tidak,Tidak pernah,5.4,Normal,Normal,5,Sangat Jarang,5,1,7457,0,Tidak pernah,Sangat Jarang,Rendah,4,4,4,3,5,5,5,Direkomendasikan ke Dokter
+65,Perempuan,Sarjana,Pekerja kantoran,Sedang,Buruk,Ya,27.2,Tidak,Kadang,6.6,Normal,Rendah,5,Kadang-kadang,3,8,5922,4,Tidak pernah,Sering,Rendah,1,4,4,4,2,5,4,Direkomendasikan ke Dokter
+85,Laki,Sarjana,Pensiunan,Rendah,Buruk,Tidak,35.4,Tidak,Kadang,6.5,Baik,Tinggi,4,Sangat Jarang,6,3,5501,6,Tidak pernah,Sangat Jarang,Tinggi,1,2,1,5,5,3,3,Direkomendasikan ke Dokter
+82,Perempuan,SMA,Pekerja Profesional,Sedang,Baik,Ya,19.9,Tidak,Kadang,7.7,Normal,Normal,4,Sangat Jarang,8,3,6617,2,Kadang-kadang,Sering,Rendah,0,0,1,1,4,3,3,Direkomendasikan ke Dokter
+62,Perempuan,SMA,Tidak bekerja,Rendah,Normal,Ya,23.2,Tidak,Tidak pernah,8.0,Buruk,Rendah,0,Sangat Jarang,6,5,4471,3,Tidak pernah,Sangat Jarang,Rendah,3,3,2,0,0,5,4,Direkomendasikan ke Dokter
+74,Laki,SMA,Tidak bekerja,Tinggi,Baik,Tidak,27.1,Tidak,Tidak pernah,5.7,Normal,Tinggi,7,Sangat Jarang,4,5,3451,0,Tidak pernah,Kadang-kadang,Rendah,3,2,1,4,0,1,1,Direkomendasikan ke Dokter
+71,Laki,SMA,Pekerja kantoran,Sedang,Buruk,Ya,24.7,Tidak,Tidak pernah,7.1,Buruk,Tinggi,3,Sering,7,5,3794,5,Tidak pernah,Sering,Sedang,1,4,0,4,0,4,2,Tidak Terdeteksi
+78,Perempuan,SMA,Pensiunan,Rendah,Normal,Tidak,20.1,Ya,Kadang,4.0,Normal,Rendah,2,Sangat Jarang,7,6,5003,0,Tidak pernah,Sangat Jarang,Sedang,1,3,2,0,5,2,1,Tidak Terdeteksi
+55,Perempuan,Doktor,Pekerja kantoran,Sedang,Normal,Ya,30.6,Ya,Tidak pernah,9.2,Normal,Normal,0,Sangat Jarang,3,2,2881,5,Tidak pernah,Sering,Sedang,2,3,1,0,4,5,4,Direkomendasikan ke Dokter
+71,Laki,SMA,Pekerja kantoran,Sedang,Normal,Ya,36.6,Tidak,Tidak pernah,6.2,Normal,Normal,3,Sangat Jarang,6,3,3999,7,Kadang-kadang,Kadang-kadang,Tinggi,5,0,2,1,5,3,4,Direkomendasikan ke Dokter
+75,Perempuan,Sarjana,Kuli,Rendah,Normal,Ya,26.0,Ya,Tidak pernah,7.1,Normal,Normal,6,Sangat Jarang,7,5,3967,3,Sering,Kadang-kadang,Sedang,0,4,2,1,3,4,2,Tidak Terdeteksi
+47,Laki,SMA,Pekerja Profesional,Sedang,Buruk,Tidak,20.5,Ya,Tidak pernah,6.5,Buruk,Rendah,4,Kadang-kadang,8,2,9249,1,Sering,Sangat Jarang,Rendah,5,1,3,1,4,4,4,Direkomendasikan ke Dokter
+53,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,18.5,Tidak,Kadang,8.7,Normal,Normal,5,Sering,5,3,1000,5,Sering,Kadang-kadang,Tinggi,4,0,4,3,4,3,4,Direkomendasikan ke Dokter
+44,Laki,Sarjana,Pekerja kantoran,Sedang,Buruk,Ya,26.3,Tidak,Kadang,4.0,Baik,Tinggi,1,Sangat Jarang,5,4,4640,0,Sering,Kadang-kadang,Rendah,4,0,2,4,5,4,5,Direkomendasikan ke Dokter
+62,Perempuan,Sarjana,Pekerja Profesional,Tinggi,Normal,Tidak,30.5,Tidak,Tidak pernah,7.0,Normal,Normal,7,Sering,8,5,8451,3,Sering,Kadang-kadang,Rendah,3,1,5,5,5,4,2,Direkomendasikan ke Dokter
+72,Perempuan,Doktor,Pensiunan,Tinggi,Baik,Ya,27.4,Ya,Kadang,6.8,Normal,Rendah,6,Kadang-kadang,3,1,5243,0,Sering,Kadang-kadang,Rendah,0,1,2,0,0,3,3,Direkomendasikan ke Dokter
+80,Perempuan,SMA,Kuli,Sedang,Buruk,Ya,25.0,Ya,Kadang,6.3,Baik,Normal,5,Sangat Jarang,6,5,6506,1,Tidak pernah,Kadang-kadang,Sedang,5,0,5,4,4,0,1,Direkomendasikan ke Dokter
+65,Perempuan,SMA,Pekerja kantoran,Sedang,Baik,Ya,22.1,Ya,Kadang,9.6,Baik,Normal,2,Kadang-kadang,3,3,5199,2,Kadang-kadang,Sangat Jarang,Rendah,3,3,3,4,0,5,3,Direkomendasikan ke Dokter
+81,Laki,Sarjana,Kuli,Rendah,Buruk,Ya,19.5,Tidak,Kadang,5.7,Buruk,Tinggi,2,Kadang-kadang,8,5,3665,6,Tidak pernah,Sangat Jarang,Rendah,4,2,1,1,3,1,3,Direkomendasikan ke Dokter
+51,Laki,SMA,Pekerja Profesional,Sedang,Normal,Tidak,29.2,Tidak,Kadang,8.2,Buruk,Normal,5,Kadang-kadang,5,5,1000,6,Sering,Sangat Jarang,Rendah,1,2,2,1,2,2,5,Direkomendasikan ke Dokter
+47,Laki,SMA,Pekerja kantoran,Rendah,Baik,Ya,29.6,Tidak,Kadang,7.5,Normal,Rendah,6,Sering,8,7,5410,1,Tidak pernah,Sangat Jarang,Rendah,0,0,3,4,0,1,1,Tidak Terdeteksi
+64,Laki,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Ya,18.5,Ya,Tidak pernah,8.9,Baik,Rendah,5,Sangat Jarang,6,6,3448,4,Tidak pernah,Sering,Sedang,0,3,0,1,5,0,3,Direkomendasikan ke Dokter
+68,Perempuan,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Ya,32.9,Tidak,Kadang,6.0,Baik,Tinggi,3,Sering,3,6,3399,3,Sering,Sering,Tinggi,5,1,3,3,1,0,2,Direkomendasikan ke Dokter
+64,Laki,Magister,Pekerja kantoran,Rendah,Normal,Tidak,27.9,Tidak,Kadang,5.9,Baik,Rendah,0,Kadang-kadang,8,6,4002,1,Sering,Sangat Jarang,Sedang,2,5,4,0,2,4,1,Tidak Terdeteksi
+44,Laki,SMA,Pensiunan,Sedang,Buruk,Ya,32.0,Tidak,Tidak pernah,8.6,Normal,Tinggi,4,Sangat Jarang,9,4,8489,2,Sering,Sering,Rendah,5,0,4,4,3,1,0,Direkomendasikan ke Dokter
+64,Perempuan,SMA,Pekerja kantoran,Rendah,Normal,Ya,18.5,Tidak,Tidak pernah,7.6,Normal,Rendah,3,Kadang-kadang,7,4,9809,0,Sering,Kadang-kadang,Rendah,1,4,1,0,5,0,5,Direkomendasikan ke Dokter
+51,Perempuan,SMA,Kuli,Sedang,Baik,Ya,18.5,Tidak,Sering,4.7,Buruk,Normal,1,Sangat Jarang,4,5,5434,3,Tidak pernah,Sering,Tinggi,1,3,5,3,2,1,3,Direkomendasikan ke Dokter
+71,Perempuan,SMA,Pekerja Profesional,Rendah,Normal,Ya,24.3,Ya,Kadang,6.2,Buruk,Normal,5,Sering,5,5,4070,7,Tidak pernah,Sering,Rendah,3,4,1,1,5,0,4,Direkomendasikan ke Dokter
+68,Perempuan,Tidak Sekolah,Pekerja Profesional,Rendah,Buruk,Ya,27.5,Ya,Kadang,7.6,Normal,Tinggi,1,Kadang-kadang,6,3,2645,5,Kadang-kadang,Sering,Tinggi,0,4,5,2,0,2,1,Tidak Terdeteksi
+55,Laki,SMA,Pekerja kantoran,Sedang,Normal,Ya,34.0,Tidak,Sering,8.3,Normal,Tinggi,1,Sangat Jarang,4,4,5937,1,Kadang-kadang,Sangat Jarang,Rendah,3,0,5,3,5,0,0,Direkomendasikan ke Dokter
+59,Laki,Tidak Sekolah,Pensiunan,Rendah,Normal,Tidak,28.5,Ya,Kadang,6.0,Normal,Rendah,3,Sangat Jarang,9,3,8565,7,Sering,Sangat Jarang,Tinggi,1,3,5,2,3,1,4,Direkomendasikan ke Dokter
+54,Perempuan,Sarjana,Pensiunan,Rendah,Buruk,Ya,23.8,Ya,Kadang,4.0,Normal,Normal,4,Kadang-kadang,6,2,4505,7,Kadang-kadang,Sangat Jarang,Rendah,2,4,5,0,1,4,0,Tidak Terdeteksi
+64,Perempuan,SMA,Kuli,Sedang,Normal,Tidak,19.9,Ya,Kadang,7.8,Buruk,Rendah,6,Sangat Jarang,3,6,1000,2,Tidak pernah,Sering,Sedang,0,3,4,4,0,1,3,Direkomendasikan ke Dokter
+74,Laki,SMA,Pensiunan,Rendah,Normal,Tidak,31.2,Ya,Kadang,5.2,Normal,Normal,2,Sangat Jarang,6,4,6340,7,Kadang-kadang,Sangat Jarang,Sedang,1,2,4,1,0,3,4,Direkomendasikan ke Dokter
+55,Perempuan,Magister,Kuli,Tinggi,Normal,Ya,20.2,Tidak,Kadang,4.0,Buruk,Normal,0,Sangat Jarang,5,8,6970,1,Tidak pernah,Sering,Sedang,2,5,2,3,3,1,3,Direkomendasikan ke Dokter
+70,Laki,Sarjana,Kuli,Rendah,Buruk,Ya,33.1,Tidak,Kadang,4.0,Normal,Tinggi,7,Sangat Jarang,5,1,1828,4,Kadang-kadang,Sangat Jarang,Rendah,5,4,4,1,3,2,4,Direkomendasikan ke Dokter
+59,Laki,SMA,Kuli,Rendah,Normal,Ya,23.6,Tidak,Tidak pernah,8.2,Normal,Tinggi,2,Sangat Jarang,5,2,5352,6,Sering,Sering,Sedang,4,4,1,2,2,5,1,Direkomendasikan ke Dokter
+57,Perempuan,SMA,Pensiunan,Sedang,Buruk,Tidak,33.0,Tidak,Sering,7.2,Normal,Normal,4,Sangat Jarang,7,4,5902,6,Tidak pernah,Sangat Jarang,Sedang,1,3,4,2,1,2,2,Tidak Terdeteksi
+63,Perempuan,SMA,Pekerja Profesional,Rendah,Buruk,Ya,28.4,Tidak,Kadang,6.7,Baik,Normal,7,Sangat Jarang,8,6,4853,3,Sering,Sangat Jarang,Rendah,4,5,1,5,5,2,2,Direkomendasikan ke Dokter
+54,Perempuan,Sarjana,Kuli,Rendah,Baik,Ya,24.3,Tidak,Tidak pernah,9.1,Buruk,Tinggi,2,Kadang-kadang,6,4,3418,0,Tidak pernah,Sangat Jarang,Rendah,3,2,0,4,2,0,0,Direkomendasikan ke Dokter
+59,Laki,Doktor,Pekerja kantoran,Rendah,Normal,Ya,22.4,Tidak,Kadang,8.0,Normal,Tinggi,5,Kadang-kadang,5,4,7031,2,Tidak pernah,Kadang-kadang,Sedang,4,4,4,2,5,2,5,Direkomendasikan ke Dokter
+53,Perempuan,Sarjana,Pekerja Profesional,Rendah,Buruk,Tidak,23.3,Tidak,Kadang,9.4,Normal,Rendah,5,Sangat Jarang,5,1,4193,1,Sering,Sangat Jarang,Rendah,1,0,1,4,5,1,4,Direkomendasikan ke Dokter
+84,Laki,SMA,Tidak bekerja,Tinggi,Buruk,Tidak,27.1,Ya,Tidak pernah,4.9,Normal,Normal,3,Sangat Jarang,6,1,2029,3,Kadang-kadang,Sering,Sedang,4,3,5,5,5,5,3,Direkomendasikan ke Dokter
+65,Laki,Sarjana,Pensiunan,Rendah,Buruk,Ya,25.4,Tidak,Kadang,6.9,Baik,Normal,1,Kadang-kadang,4,4,1000,1,Tidak pernah,Sangat Jarang,Rendah,0,3,3,3,2,4,5,Direkomendasikan ke Dokter
+58,Perempuan,SMA,Pensiunan,Sedang,Buruk,Tidak,22.0,Tidak,Kadang,4.6,Normal,Rendah,7,Sangat Jarang,7,1,7521,3,Tidak pernah,Sangat Jarang,Sedang,1,4,5,5,0,2,1,Tidak Terdeteksi
+67,Perempuan,Tidak Sekolah,Pekerja kantoran,Tinggi,Buruk,Ya,24.2,Tidak,Kadang,6.7,Baik,Rendah,4,Sangat Jarang,6,2,6233,6,Tidak pernah,Sering,Rendah,2,2,2,4,3,1,1,Tidak Terdeteksi
+63,Perempuan,SMA,Pensiunan,Rendah,Buruk,Ya,25.4,Tidak,Tidak pernah,6.6,Buruk,Rendah,4,Sangat Jarang,9,5,5175,7,Kadang-kadang,Sangat Jarang,Sedang,4,4,1,2,0,0,1,Direkomendasikan ke Dokter
+62,Perempuan,Doktor,Pekerja kantoran,Tinggi,Normal,Tidak,18.5,Tidak,Kadang,7.9,Baik,Normal,2,Sering,8,2,4119,4,Tidak pernah,Sering,Rendah,0,1,5,0,1,0,2,Tidak Terdeteksi
+71,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,27.3,Tidak,Kadang,7.1,Buruk,Rendah,3,Kadang-kadang,4,7,3942,1,Kadang-kadang,Sering,Rendah,3,4,4,4,2,4,3,Direkomendasikan ke Dokter
+72,Perempuan,Sarjana,Pekerja Profesional,Tinggi,Normal,Ya,20.1,Ya,Tidak pernah,7.9,Baik,Rendah,2,Kadang-kadang,7,6,2848,4,Tidak pernah,Sangat Jarang,Rendah,3,5,4,1,1,4,1,Direkomendasikan ke Dokter
+59,Laki,SMA,Pekerja Profesional,Rendah,Normal,Ya,19.2,Tidak,Sering,8.1,Normal,Rendah,2,Kadang-kadang,4,1,4137,5,Tidak pernah,Sangat Jarang,Tinggi,4,5,0,0,3,1,1,Direkomendasikan ke Dokter
+59,Laki,SMA,Kuli,Sedang,Buruk,Tidak,18.5,Tidak,Kadang,10.0,Normal,Tinggi,4,Kadang-kadang,7,2,1000,5,Kadang-kadang,Sangat Jarang,Rendah,3,1,3,4,3,4,0,Direkomendasikan ke Dokter
+62,Laki,Tidak Sekolah,Pensiunan,Rendah,Baik,Tidak,18.5,Tidak,Tidak pernah,6.5,Normal,Tinggi,2,Sangat Jarang,4,1,3527,7,Tidak pernah,Sering,Sedang,2,5,1,1,4,4,4,Direkomendasikan ke Dokter
+41,Laki,SMA,Pekerja kantoran,Rendah,Baik,Tidak,18.5,Ya,Kadang,5.6,Baik,Normal,1,Kadang-kadang,3,2,4378,6,Sering,Kadang-kadang,Rendah,1,5,5,5,1,0,4,Direkomendasikan ke Dokter
+49,Perempuan,Sarjana,Kuli,Sedang,Baik,Tidak,21.5,Tidak,Kadang,7.4,Buruk,Normal,2,Sangat Jarang,6,5,6219,2,Tidak pernah,Kadang-kadang,Rendah,0,0,3,0,0,1,4,Direkomendasikan ke Dokter
+78,Perempuan,SMA,Tidak bekerja,Sedang,Baik,Ya,34.8,Tidak,Tidak pernah,5.8,Normal,Tinggi,7,Kadang-kadang,3,3,4920,4,Kadang-kadang,Sering,Sedang,5,3,0,4,1,5,5,Direkomendasikan ke Dokter
+81,Laki,Sarjana,Pekerja kantoran,Rendah,Baik,Ya,22.4,Ya,Tidak pernah,9.2,Baik,Rendah,1,Kadang-kadang,3,4,6589,3,Tidak pernah,Sangat Jarang,Sedang,4,5,2,3,2,4,0,Direkomendasikan ke Dokter
+62,Laki,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,25.9,Tidak,Tidak pernah,6.6,Normal,Rendah,4,Kadang-kadang,5,1,7698,2,Kadang-kadang,Sering,Tinggi,3,3,3,5,3,1,2,Direkomendasikan ke Dokter
+70,Perempuan,Magister,Pekerja Profesional,Sedang,Buruk,Ya,27.0,Ya,Tidak pernah,6.2,Buruk,Rendah,3,Sangat Jarang,6,5,7116,1,Tidak pernah,Sering,Tinggi,1,2,0,1,3,2,5,Direkomendasikan ke Dokter
+68,Laki,SMA,Pensiunan,Sedang,Normal,Ya,25.7,Tidak,Kadang,6.3,Normal,Rendah,5,Sangat Jarang,5,2,5941,1,Tidak pernah,Kadang-kadang,Sedang,5,4,1,3,1,0,0,Direkomendasikan ke Dokter
+90,Perempuan,SMA,Tidak bekerja,Tinggi,Normal,Tidak,24.6,Tidak,Kadang,8.1,Normal,Normal,7,Kadang-kadang,3,4,5023,3,Sering,Sering,Sedang,2,0,2,2,1,5,1,Tidak Terdeteksi
+76,Perempuan,SMA,Pekerja Profesional,Sedang,Normal,Ya,19.0,Tidak,Tidak pernah,6.8,Baik,Tinggi,1,Kadang-kadang,4,3,3038,0,Kadang-kadang,Sering,Sedang,3,1,4,5,5,0,3,Direkomendasikan ke Dokter
+63,Perempuan,Doktor,Kuli,Tinggi,Normal,Ya,32.3,Ya,Tidak pernah,6.0,Normal,Normal,3,Sering,6,1,6479,7,Tidak pernah,Sangat Jarang,Rendah,3,2,0,5,1,0,5,Direkomendasikan ke Dokter
+55,Perempuan,Magister,Pensiunan,Sedang,Buruk,Ya,34.0,Tidak,Tidak pernah,9.5,Normal,Normal,3,Sangat Jarang,7,1,8359,0,Kadang-kadang,Kadang-kadang,Tinggi,0,0,4,4,5,3,5,Direkomendasikan ke Dokter
+48,Perempuan,SMA,Pensiunan,Rendah,Buruk,Ya,18.5,Ya,Sering,5.7,Baik,Tinggi,1,Kadang-kadang,5,5,5684,7,Tidak pernah,Kadang-kadang,Sedang,2,0,2,4,2,1,1,Tidak Terdeteksi
+67,Laki,Sarjana,Pekerja kantoran,Rendah,Baik,Tidak,19.9,Ya,Tidak pernah,7.1,Normal,Rendah,4,Kadang-kadang,8,4,8834,1,Kadang-kadang,Sangat Jarang,Sedang,2,1,0,1,2,2,1,Tidak Terdeteksi
+57,Perempuan,SMA,Pekerja Profesional,Sedang,Normal,Ya,23.6,Ya,Sering,8.0,Buruk,Rendah,0,Sering,6,6,1948,7,Tidak pernah,Sering,Rendah,4,1,0,5,0,4,3,Direkomendasikan ke Dokter
+50,Perempuan,Sarjana,Pekerja kantoran,Sedang,Normal,Ya,20.2,Ya,Kadang,4.6,Buruk,Normal,3,Kadang-kadang,4,4,2691,6,Kadang-kadang,Sangat Jarang,Rendah,5,3,2,4,1,2,4,Direkomendasikan ke Dokter
+58,Laki,Tidak Sekolah,Pekerja kantoran,Rendah,Buruk,Tidak,27.5,Tidak,Tidak pernah,7.7,Normal,Normal,3,Kadang-kadang,5,4,6710,6,Kadang-kadang,Kadang-kadang,Tinggi,0,4,1,2,0,1,5,Direkomendasikan ke Dokter
+54,Perempuan,Sarjana,Pensiunan,Rendah,Buruk,Ya,21.4,Ya,Kadang,5.4,Buruk,Rendah,4,Kadang-kadang,3,1,5528,3,Kadang-kadang,Kadang-kadang,Rendah,4,2,0,4,4,0,0,Direkomendasikan ke Dokter
+81,Perempuan,SMA,Pekerja kantoran,Tinggi,Baik,Ya,35.8,Tidak,Kadang,8.2,Baik,Normal,4,Kadang-kadang,5,3,7627,0,Sering,Sangat Jarang,Sedang,0,4,2,5,2,3,2,Tidak Terdeteksi
+73,Perempuan,Sarjana,Pekerja kantoran,Sedang,Normal,Ya,31.0,Tidak,Kadang,5.6,Normal,Normal,2,Sering,8,3,4969,4,Kadang-kadang,Sering,Rendah,2,2,3,0,3,1,1,Tidak Terdeteksi
+64,Perempuan,Sarjana,Pekerja kantoran,Rendah,Normal,Ya,26.1,Tidak,Sering,8.0,Buruk,Normal,4,Sangat Jarang,7,7,3264,1,Sering,Sering,Tinggi,0,0,4,3,5,5,1,Tidak Terdeteksi
+79,Perempuan,Sarjana,Pensiunan,Rendah,Normal,Tidak,30.1,Tidak,Tidak pernah,8.7,Normal,Normal,3,Sangat Jarang,8,5,4572,5,Tidak pernah,Kadang-kadang,Rendah,0,5,0,5,4,5,2,Tidak Terdeteksi
+65,Perempuan,Tidak Sekolah,Pekerja kantoran,Rendah,Normal,Tidak,30.5,Tidak,Tidak pernah,8.3,Normal,Normal,1,Sering,5,7,1934,4,Tidak pernah,Sangat Jarang,Tinggi,0,5,3,2,3,1,0,Tidak Terdeteksi
+56,Perempuan,SMA,Kuli,Rendah,Buruk,Ya,22.2,Tidak,Kadang,7.4,Baik,Rendah,0,Kadang-kadang,8,5,2742,3,Tidak pernah,Sangat Jarang,Rendah,1,1,0,5,4,4,1,Tidak Terdeteksi
+80,Perempuan,SMA,Pekerja Profesional,Rendah,Normal,Tidak,20.9,Ya,Tidak pernah,6.7,Baik,Normal,6,Kadang-kadang,5,2,6944,5,Kadang-kadang,Sangat Jarang,Tinggi,1,1,1,2,0,2,2,Tidak Terdeteksi
+70,Perempuan,SMA,Pensiunan,Rendah,Normal,Ya,25.4,Tidak,Tidak pernah,6.1,Normal,Rendah,2,Sangat Jarang,8,4,6745,4,Tidak pernah,Sangat Jarang,Sedang,5,0,2,5,0,2,1,Direkomendasikan ke Dokter
+54,Perempuan,Tidak Sekolah,Kuli,Sedang,Normal,Ya,29.3,Ya,Tidak pernah,9.2,Normal,Tinggi,6,Sangat Jarang,5,4,5726,0,Kadang-kadang,Kadang-kadang,Rendah,5,0,0,3,5,4,4,Direkomendasikan ke Dokter
+63,Perempuan,Magister,Kuli,Rendah,Normal,Ya,25.7,Ya,Tidak pernah,6.0,Normal,Normal,1,Kadang-kadang,7,2,1557,7,Tidak pernah,Sering,Sedang,2,2,2,3,2,3,4,Direkomendasikan ke Dokter
+56,Laki,SMA,Kuli,Tinggi,Baik,Ya,18.5,Ya,Kadang,5.4,Normal,Normal,0,Kadang-kadang,8,3,4283,6,Kadang-kadang,Kadang-kadang,Rendah,0,0,5,2,5,0,1,Tidak Terdeteksi
+51,Perempuan,SMA,Pekerja kantoran,Tinggi,Buruk,Ya,21.0,Tidak,Tidak pernah,8.0,Buruk,Tinggi,0,Sangat Jarang,5,3,2550,0,Sering,Sering,Rendah,2,2,0,5,3,0,1,Tidak Terdeteksi
