@@ -22,7 +22,7 @@ def prediksi_risiko_alzheimer():
     st.sidebar.header("Masukkan Data untuk Prediksi")
     
     # Input data
-    Age = st.sidebar.number_input('Usia (tahun)', min_value=0, max_value=120, step=1)
+    Age = st.sidebar.number_input('Usia (tahun)', min_value=20, max_value=100, step=20)
     Job = st.sidebar.selectbox('Status Pekerjaan', ['Tidak bekerja', 'Kuli', 'Pekerja kantoran', 'Pekerja Profesional', 'Pensiunan'])
     BMI = st.sidebar.number_input('Indeks Massa Tubuh (BMI)', min_value=0.0, step=0.1)
     SleepDuration = st.sidebar.number_input('Durasi Tidur (jam/hari)', min_value=0, max_value=24, step=1)
